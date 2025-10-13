@@ -6,7 +6,7 @@
   <link href="https://koou21.github.io/atom.xml" rel="self"/>
   
   <link href="https://koou21.github.io/"/>
-  <updated>2025-10-11T20:12:26.590Z</updated>
+  <updated>2025-10-13T00:17:20.572Z</updated>
   <id>https://koou21.github.io/</id>
   
   <author>
@@ -21,15 +21,38 @@
     <link href="https://koou21.github.io/about/"/>
     <id>https://koou21.github.io/about/</id>
     <published>2058-10-10T10:43:10.000Z</published>
-    <updated>2025-10-11T20:12:26.590Z</updated>
+    <updated>2025-10-13T00:17:20.572Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="About">About</h2><p>Hello I’m lukas!! And this is my translation blog! I mainly translate enstars, and specially Valkyrie and Double Face bias!! You can check my translations and terms of service here!</p><img src="https://i.imgur.com/xFluk5J.png" class=""><h2 id="Terms-of-Service">Terms of Service</h2><p><b>I permit:</b></p><li>Taking Screenshots of my translations</li><li>Re-translating my translations to a different language, but please contact me in Twitter/X (koou210), or in my Discord (koou21)</li><li>Using my translations for Youtube Videos, but of course giving me the credits!</li><li>Using my translations in Fanworks, Quotebooks, but please give me the credit!</li><li>Using my translations on public/private masterlists</li><br><b>I do not permit:</b><br><li>Making any tip of profit with my translations!</li><li>Re-publishing the enterity of a translaion in other places, without my previous agreement</li><li>Train any type of AI with my translations</li><li>Changing the meaning/intention in my translations</li>]]></content>
+    <content type="html"><![CDATA[<h2 id="Introduction">Introduction</h2><img src="https://i.imgur.com/xFluk5J.png" class=""><center>Hello I'm lukas!! And this is my translation blog! I mainly fan-translate enstars!</center><br><center>To check my translations, please check my <b><a href="https://koou21.github.io/translations/" target="_blank">Translation Masterlist</a></b>!</center><br><h2 id="Translation Bias">Translation Bias</h2><b>I will mainly translate content from:</b><li>Double Face</li><li>Valkyrie</li><li>MaM</li><br> <b>I will sometimes translate content from:</b><li>Switch</li><li>ALKALOID</li><li>RYUSEITAI</li><h2 id="Thanks and Credits">Thanks and Credits</h2><p>Thank you to <b><a href="https://x.com/riamuyumemi" target="_blank">Ren</a></b> who customized the Next theme for Hexo and made it look pretty and good for enstars translators! Thank you to <b><a href="https://citrinesea.github.io" target="_blank">citrinesea</a></b> who helped me with setting up the site, and for sharing their template for song posts! Thank you to <b><a href="https://310mc.github.io" target="_blank">310mc</a></b> who helped me when I needed setting up my masterlist! And lastly, thank you <b><a href="https://x.com/findermao" target="_blank">yuu</a></b> for making the whole translation masterlist template!!</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;About&quot;&gt;About&lt;/h2&gt;
-&lt;p&gt;Hello I’m lukas!! And this is my translation blog! I mainly translate enstars, and specially Valkyrie and Doubl</summary>
+    <summary type="html">&lt;h2 id=&quot;Introduction&quot;&gt;Introduction&lt;/h2&gt;
+&lt;img src=&quot;https://i.imgur.com/xFluk5J.png&quot; class=&quot;&quot;&gt;
+&lt;center&gt;Hello I&#39;m lukas!! And this is my transl</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Translation Masterlist</title>
+    <link href="https://koou21.github.io/translations/"/>
+    <id>https://koou21.github.io/translations/</id>
+    <published>2058-10-09T23:53:26.000Z</published>
+    <updated>2025-10-13T01:07:48.597Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" href="../../css/translation.css"><h2 id="Terms-of-Service">Terms of Service</h2><p><b>Please</b>, before checking my translations, read my terms of service!<br></p><center><h2>I permit:</h2></center><li>Taking Screenshots of my translations</li><li>Re-translating my translations to a different language, but please contact me in Twitter/X (koou210), or in my Discord (koou21)</li><li>Using my translations for Youtube Videos, but of course giving me the credits</li><li>Using my translations in Fanworks, Quotebooks, but please give me the credit</li><li>Using my translations on public/private masterlists</li><br><center><h2>I do not permit:</h2><br></b></center><li>Making any tip of profit with my translations</li><li>Re-publishing the enterity of a translaion in other places, without my previous agreement</li><li>Train any type of AI with my translations</li><li>Changing the meaning/intention in my translations</li><br><center><h1>Masterlist</h1></center><center><h2>!!-Era</h2></center><p><h2>Main Story</h2></p><div class="stories">  <div class="story">    <div class="thumbimage">        <img            src="https://i.imgur.com/VTM1SmK.png"            alt="Metamorphose"        />    </div>      <a href="/metamorphose/" class="storyName" target="_blank">        <span>Metamorphose</span>        <span class="read"></span>      </a>  </div></div><p><h2>Event Stories</h2></p><div class="stories">  <div class="story">    <div class="thumbimage">        <img            src="https://i.imgur.com/TfscXUs.png"            alt="Neverland"        />    </div>      <a href="/neverland/" class="storyName" target="_blank">        <span>Neverland</span>        <span class="read"></span>      </a>  </div></div><p><h2>Idol Stories</h2></p><div class="stories">  <div class="story">    <div class="thumbimage">        <img            src="https://i.imgur.com/sFPs6zX.png"            alt="Coffin Dilemma"        />    </div>      <a href="/coffin_dilemma/" class="storyName" target="_blank">        <span>Coffin Dilemma</span>        <span class="read"></span>      </a>  </div>  <div class="story">    <div class="thumbimage">        <img            src="https://i.imgur.com/5CmUTv4.png"            alt="Shoe Sores and Aching Muscles"        />    </div>      <a href="/shoe_sores_and_aching_muscles/" class="storyName" target="_blank">        <span>Shoe Sores and Aching Muscles</span>        <span class="read"></span>      </a>  </div>  <div class="story">    <div class="thumbimage">        <img            src="https://i.imgur.com/F4V9FsP.png"            alt="One Single Person"/>    </div>      <a href="/one_single_sperson/" class="storyName" target="_blank">        <span>One Single Person</span>        <span class="read"></span>      </a>  </div></div><p><h2>Special Stories</h2></p><div class="stories">    <div class="story">        <div class="thumbimage">            <img src="https://i.imgur.com/zKwnLAt.png" alt="PM6:">        </div>            <a href="/pm6" class="storyName" target="_blank">                <span>PM6:∞</span>                <span class="read"></span>            </a>    </div></div><p><h2>Song Lyrics</h2></p><div class="stories">    <div class="story">        <div class="thumbimage">            <img src="https://i.imgur.com/ZEk4yuw.png" alt="Stippling">        </div>            <a href="/stippling" class="storyName" target="_blank">                <span>Stippling</span>                <span class="read"></span>            </a>    </div>    <div class="story">        <div class="thumbimage">            <img src="https://i.imgur.com/ZEk4yuw.png" alt="=EYE=">        </div>            <a href="/eye" class="storyName" target="_blank">                <span>=EYE=</span>                <span class="read"></span>            </a>    </div></div><center><h2>!-Era</h2></center><p><h2>Management Stories</h2></p><div class="stories">  <div class="story">    <div class="thumbimage">        <img            src="https://i.imgur.com/peDxoUU.png"            alt="Management Story - 4"        />    </div>      <a href="/management/shu/4/" class="storyName" target="_blank">        <span>Management Story - 4</span>        <span class="read"></span>      </a>  </div></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; href=&quot;../../css/translation.css&quot;&gt;
+&lt;h2 id=&quot;Terms-of-Service&quot;&gt;Terms of Service&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;Please&lt;/b&gt;, before checking m</summary>
       
     
     
@@ -80,9 +103,9 @@
     <link href="https://koou21.github.io/metamorphose/"/>
     <id>https://koou21.github.io/metamorphose/</id>
     <published>2025-09-29T15:23:04.000Z</published>
-    <updated>2025-10-11T16:19:42.351Z</updated>
+    <updated>2025-10-13T00:32:46.833Z</updated>
     
-    <content type="html"><![CDATA[<style>    .preview-wrapper { /* in case jquery doesn't work */        display: none;    }    @media (max-width: 567px) { /* for NexT Mashiro: makes padding smaller on mobile */        .post-block {            padding: 5px 10px 8px !important;        }    }</style><div class="story-wrapper mobile-reverse" style="--storyColor: #454a8f;--storyColor-rgb: 69, 74, 143;--storyColor-h: 0;--storyColor-s: 0%;--storyColor-l: 20%;">    <div class="grid-wrapper">        <div class="story-background" style="background-image: url('https://i.imgur.com/H9qeFSp.png')"></div>        <div class="story-box">            <div class="story-cover">                <div><img src="https://i.imgur.com/VTM1SmK.png"></div>            </div>            <div class="title-area">                <div class="title-area__title">Metamorphose</div>                <div class="title-area__subtitle">メタモルフォーゼ</div>                <div class="title-area__start">                    <a href="https://koou21.tumblr.com/post/795989198101512192/metamorphose-chitose-tsuzura">Start Reading</a>                </div>            </div>            <div class="info-area">                <div class="synopsis">                    4piece has ended and the idols’ lives have returned to normalcy, when one day, the mysterious blimp Mega Sphere suddenly flies into the sky above ES. With Tori, Rei, Rinne, and Madara calling themselves the "Four Kings of the Sky,” a never before seen live is about to begin…! <span style="display:inline-block"></span>                </div>                <div class="info">                    <div class="info-item season">                        <div class="label">                            Season                        </div>                        <div class="value">                            Summer                        </div>                    </div>                    <div class="info-item chapters">                        <div class="label">                            Chapters                        </div>                        <div class="value">                            13                        </div>                    </div>                    <div class="info-item writer">                        <div class="label">                            Writer                        </div>                        <div class="value">                            Happy Elements K.K                        </div>                    </div>                    <div class="info-item characters">                        <div class="label">                            Characters                        </div>                        <div class="value">                            <a href="/tl/categories/Ensemble-Stars/Tori-Himemiya/" character="Tori"></a>                            <a href="/tl/categories/Ensemble-Stars/Subaru-Akehoshi/" character="Subaru"></a>                            <a href="/tl/categories/Ensemble-Stars/Hokuto-Hidaka/" character="Hokuto"></a>                            <a href="/tl/categories/Ensemble-Stars/Makoto-Yuuki/" character="Makoto"></a>                            <a href="/tl/categories/Ensemble-Stars/Mao-Isara/" character="Mao"></a>                            <a href="/tl/categories/Ensemble-Stars/Yuzuru-Fushimi/" character="Yuzuru"></a>                            <a href="/tl/categories/Ensemble-Stars/Eichi-Tenshouin/" character="Eichi"></a>                            <a href="/tl/categories/Ensemble-Stars/Rei-Sakuma/" character="Rei"></a>                            <a href="/tl/categories/Ensemble-Stars/Wataru-Hibiki/" character="Wataru"></a>                            <a href="/tl/categories/Ensemble-Stars/Shu-Itsuki/" character="Shu"></a>                            <a href="/tl/categories/Ensemble-Stars/Madara-Mikejima/" character="Madara"></a>                            <a href="/tl/categories/Ensemble-Stars/Rinne-Amagi/" character="Rinne"></a>                            <a href="/tl/categories/Ensemble-Stars/HiMERU/" character="HiMERU"></a>                            <a href="/tl/categories/Ensemble-Stars/Kohaku-Oukawa/" character="Kohaku"></a>                            <a href="/tl/categories/Ensemble-Stars/Niki-Shiina/" character="Niki"></a>                            <a href="/tl/categories/Ensemble-Stars/Kanna/" character="Kanna"></a>                            <a href="/tl/categories/Ensemble-Stars/Nice-Arneb-Thunder/" character="Nice"></a>                            <a href="/tl/categories/Ensemble-Stars/Chitose-Tsuzura/" character="Chitose"></a>                        </div>                    </div>                    <div class="info-item tl">                        <div class="label">                            Translators                        </div>                        <div class="value">                            <a href="https://koou21.tumblr.com" target="_blank">lukas</a>                        </div>                    </div>                    <div class="info-item pr">                        <div class="label">                            Proofreaders                        </div>                        <div class="value">                            Not proofread.                        </div>                    </div>                </div>                <div class="extra-area">                    <div class="tab-header">                        <div class="tab-header__name">Extra Information</div>                    </div>                    <div class="tab-content">                        <div class="tab-item">                            <div class="label">                                Event                            </div>                            <div class="value">                                Mega Stream Arc／PREQUEL: Metamorphose                            </div>                        </div>                        <div class="tab-item">                            <div class="label">                                Event Duration                            </div>                            <div class="value">                                4/15/2025 (15:00 JST) - 4/24/2025 (22:00 JST)                            </div>                        </div>                <div class="comment-area">                    <div class="tab-header">                        <div class="tab-header__name">Translator's Comments</div>                    </div>                    <div class="tab-content">                        This is a very important story for Tori, it shows his growth and independence.                    </div>                </div>                <div class="cg-gallery">                    <div class="tab-header">                        <div class="tab-header__name">CG Gallery</div>                    </div>                    <div class="tab-content">                        <div class="gallery">                            <div class="gallery-item">                                <div class="image">                                    <img src="https://i.imgur.com/xzUIh33.png">                                </div>                                <div class="caption">                                    Eclosion／2                                </div>                            </div>                            <div class="gallery-item">                                <div class="image">                                    <img src="https://i.imgur.com/GMIB1rZ.png">                                </div>                                <div class="caption">                                    Eclosion／3                                </div>                            </div>                            <div class="gallery-item">                                <div class="image">                                    <img src="https://i.imgur.com/EsefCHZ.png">                                </div>                                <div class="caption">                                    Ark／2                                </div>                            </div>                            <div class="gallery-item">                                <div class="image">                                    <img src="https://i.imgur.com/Ff7CuaX.png">                                </div>                                <div class="caption">                                    Ark／5                                </div>                            </div>                            <div class="gallery-item">                                <div class="image">                                    <img src="https://i.imgur.com/3tynj1C.png">                                </div>                                <div class="caption">                                    Epilogue                                </div>                            </div>                            <div class="gallery-item">                                <div class="image">                                    <img src="https://i.imgur.com/i7n6jUn.png">                                </div>                                <div class="caption">                                    Epilogue                                </div>                            </div>                            <div class="gallery-item">                                <div class="image">                                    <img src="https://i.imgur.com/orhfpr5.png">                                </div>                                <div class="caption">                                    Epilogue                                </div>                            </div>                            <div class="gallery-item">                                <div class="image">                                    <img src="https://i.imgur.com/NRHZvdl.png">                                </div>                                <div class="caption">                                    Epilogue                                </div>                            </div>                        </div>                    </div>                </div>                <div class="story-cards">                    <div class="tab-header">                        <div class="tab-header__name">Associated Cards</div>                    </div>                    <div class="tab-content">                        <div class="cards">                            <div class="cards-item">                                <div class="image">                                    <div class="single unbloomed">                                        <img src="https://i.imgur.com/N7UjIO7.png">                                    </div>                                    <div class="single bloomed">                                        <img src="https://i.imgur.com/c9hGOyF.png">                                    </div>                                </div>                                <div class="lightbox">                                    <div class="card__name">(Charm of the Four Kings of the Sky) Tori Himemiya</div>                                    <div class="card__jp">[四天王の魅力] 姫宮 桃李</div>                                </div>                            </div>                            <div class="cards-item">                                <div class="image">                                    <div class="single unbloomed">                                        <img src="https://i.imgur.com/R02b1tC.png">                                    </div>                                    <div class="single bloomed">                                        <img src="https://i.imgur.com/4bIXHkG.png">                                    </div>                                </div>                                <div class="lightbox">                                    <div class="card__name">(Future of the Four Kings of the Sky) Rei Sakuma</div>                                    <div class="card__jp">[四天王の未来] 朔間 零</div>                                </div>                            </div>                            <div class="cards-item">                                <div class="image">                                    <div class="single unbloomed">                                        <img src="https://i.imgur.com/dIjptIO.png">                                    </div>                                    <div class="single bloomed">                                        <img src="https://i.imgur.com/d59ZuGz.png">                                    </div>                                </div>                                <div class="lightbox">                                    <div class="card__name">(Gamble of the Four Kings of the Sky) Rinne Amagi</div>                                    <div class="card__jp">[四天王の賭け] 天城 燐音</div>                                </div>                            </div>                            <div class="cards-item">                                <div class="image">                                    <div class="single unbloomed">                                        <img src="https://i.imgur.com/oa1fkE7.png">                                    </div>                                    <div class="single bloomed">                                        <img src="https://i.imgur.com/SOvtIsN.png">                                    </div>                                </div>                                <div class="lightbox">                                    <div class="card__name">(Confidence of the Four Kings of the Sky) Madara Mikejima</div>                                    <div class="card__jp">[四天王の自信] 三毛縞 斑</div>                                </div>                            </div>                            <div class="cards-item">                                <div class="image">                                    <div class="single unbloomed">                                        <img src="https://i.imgur.com/m0xxAOD.png">                                    </div>                                    <div class="single bloomed">                                        <img src="https://i.imgur.com/nywUSTY.png">                                    </div>                                </div>                                <div class="lightbox">                                    <div class="card__name">(Support from the Talented) Wataru Hibiki</div>                                    <div class="card__jp">[実力者の応援] 日々樹 渉</div>                                          </div>                            </div>                            <div class="cards-item">                                <div class="image">                                    <div class="single unbloomed">                                        <img src="https://i.imgur.com/ffcDMGE.png">                                    </div>                                    <div class="single bloomed">                                        <img src="https://i.imgur.com/FXc3001.png">                                    </div>                                </div>                                <div class="lightbox">                                    <div class="card__name">(Support from the New) Kanna</div>                                    <div class="card__jp">[新人の応援] カンナ</div>                                </div>                            </div>                        </div>                    </div>                </div>            </div>            </div>            </div>            <div class="chapter-area">                <div class="chapters">                    <ul>                        <li>                            <a href="https://koou21.github.io/metamorphose/chitose_tsuzura/">Chitose Tsuzura: Bystander in an Ambiguous World</a>                        </li>                         <li>                            <a href="https://koou21.github.io/metamorphose/prologue/">Prologue</a>                        </li>                        <li>                            <span>Eclosion</span>                            <a href="https://koou21.github.io/metamorphose/eclosion/#Chapter-1">1</a>                            <a href="https://koou21.github.io/metamorphose/eclosion/#Chapter-2">2</a>                            <a href="https://koou21.github.io/metamorphose/eclosion/#Chapter-3">3</a>                            <a href="https://koou21.github.io/metamorphose/eclosion/#Chapter-4">4</a>                            <a href="https://koou21.github.io/metamorphose/eclosion/#Chapter-5">5</a>                        </li>                        <li>                            <span>Ark</span>                            <a href="https://koou21.github.io/metamorphose/ark/#Chapter-1">1</a>                            <a href="https://koou21.github.io/metamorphose/ark/#Chapter-2">2</a>                            <a href="https://koou21.github.io/metamorphose/ark/#Chapter-3">3</a>                            <a href="https://koou21.github.io/metamorphose/ark/#Chapter-4">4</a>                            <a href="https://koou21.github.io/metamorphose/ark/#Chapter-5">5</a>                        <li>                            <a href="https://koou21.github.io/metamorphose/ark/epilogue/">Epilogue</a>                        </li>                    </ul>                </div>                <div class="mini-talks">                    <div class="mini-talk">                        <div class="mt-header">TBA</div>                        <div class="mt-content">                        <div class="item">                            <a href="mini_talk/tori/1" id="none">1</a>                            <a href="mini_talk/tori/2">2</a>                            </div>                        </div>                    </div>                </div>            </div>        </div>    </div></div><script> <!-- IMPORTANT! removes story preview -->$(document).ready(function() {    $('.preview-wrapper').remove();</script><span id="more"></span>]]></content>
+    <content type="html"><![CDATA[<style>    .preview-wrapper { /* in case jquery doesn't work */        display: none;    }    @media (max-width: 567px) { /* for NexT Mashiro: makes padding smaller on mobile */        .post-block {            padding: 5px 10px 8px !important;        }    }</style><div class="story-wrapper mobile-reverse" style="--storyColor:#454a8f;--storyColor-rgb:69,74,143;--storyColor-h:0;--storyColor-s:0%;--storyColor-l:20%;">  <div class="grid-wrapper">    <div class="story-background" style="background-image:url('https://i.imgur.com/H9qeFSp.png')"></div>    <div class="story-box">      <div class="story-cover">        <div><img src="https://i.imgur.com/VTM1SmK.png"></div>      </div>      <div class="title-area">        <div class="title-area__title">Metamorphose</div>        <div class="title-area__subtitle">メタモルフォーゼ</div>        <div class="title-area__start">          <a href="https://koou21.tumblr.com/post/795989198101512192/metamorphose-chitose-tsuzura">Start Reading</a>        </div>      </div>      <div class="info-area">        <div class="synopsis">          4piece has ended and the idols’ lives have returned to normalcy, when one day, the mysterious blimp Mega Sphere suddenly flies into the sky above ES. With Tori, Rei, Rinne, and Madara calling themselves the "Four Kings of the Sky,” a never before seen live is about to begin…!          <span style="display:inline-block"></span>        </div>        <div class="info">          <div class="info-item season">            <div class="label">Season</div>            <div class="value">Summer</div>          </div>          <div class="info-item chapters">            <div class="label">Chapters</div>            <div class="value">13</div>          </div>          <div class="info-item writer">            <div class="label">Writer</div>            <div class="value">Happy Elements K.K</div>          </div>          <div class="info-item characters">            <div class="label">Characters</div>            <div class="value">              <a href="/tl/categories/Ensemble-Stars/Tori-Himemiya/" character="Tori"></a>              <a href="/tl/categories/Ensemble-Stars/Subaru-Akehoshi/" character="Subaru"></a>              <a href="/tl/categories/Ensemble-Stars/Hokuto-Hidaka/" character="Hokuto"></a>              <a href="/tl/categories/Ensemble-Stars/Makoto-Yuuki/" character="Makoto"></a>              <a href="/tl/categories/Ensemble-Stars/Mao-Isara/" character="Mao"></a>              <a href="/tl/categories/Ensemble-Stars/Yuzuru-Fushimi/" character="Yuzuru"></a>              <a href="/tl/categories/Ensemble-Stars/Eichi-Tenshouin/" character="Eichi"></a>              <a href="/tl/categories/Ensemble-Stars/Rei-Sakuma/" character="Rei"></a>              <a href="/tl/categories/Ensemble-Stars/Wataru-Hibiki/" character="Wataru"></a>              <a href="/tl/categories/Ensemble-Stars/Shu-Itsuki/" character="Shu"></a>              <a href="/tl/categories/Ensemble-Stars/Madara-Mikejima/" character="Madara"></a>              <a href="/tl/categories/Ensemble-Stars/Rinne-Amagi/" character="Rinne"></a>              <a href="/tl/categories/Ensemble-Stars/HiMERU/" character="HiMERU"></a>              <a href="/tl/categories/Ensemble-Stars/Kohaku-Oukawa/" character="Kohaku"></a>              <a href="/tl/categories/Ensemble-Stars/Niki-Shiina/" character="Niki"></a>              <a href="/tl/categories/Ensemble-Stars/Kanna/" character="Kanna"></a>              <a href="/tl/categories/Ensemble-Stars/Nice-Arneb-Thunder/" character="Nice"></a>              <a href="/tl/categories/Ensemble-Stars/Chitose-Tsuzura/" character="Chitose"></a>            </div>          </div>          <div class="info-item tl">            <div class="label">Translators</div>            <div class="value"><a href="https://koou21.tumblr.com" target="_blank">lukas</a></div>          </div>          <div class="info-item pr">            <div class="label">Proofreaders</div>            <div class="value">Not proofread.</div>          </div>        </div>        <div class="extra-area">          <div class="tab-header">            <div class="tab-header__name">Extra Information</div>          </div>          <div class="tab-content">            <div class="tab-item">              <div class="label">Event</div>              <div class="value">Mega Stream Arc／PREQUEL: Metamorphose</div>            </div>            <div class="tab-item">              <div class="label">Event Duration</div>              <div class="value">4/15/2025 (15:00 JST) - 4/24/2025 (22:00 JST)</div>            </div>          </div>        </div>        <div class="comment-area">          <div class="tab-header">            <div class="tab-header__name">Translator's Comments</div>          </div>          <div class="tab-content">            This is a very important story for Tori, it shows his growth and independence.          </div>        </div>        <div class="cg-gallery">          <div class="tab-header">            <div class="tab-header__name">CG Gallery</div>          </div>          <div class="tab-content">            <div class="gallery">              <div class="gallery-item"><div class="image"><img src="https://i.imgur.com/xzUIh33.png"></div><div class="caption">Eclosion／2</div></div>              <div class="gallery-item"><div class="image"><img src="https://i.imgur.com/GMIB1rZ.png"></div><div class="caption">Eclosion／3</div></div>              <div class="gallery-item"><div class="image"><img src="https://i.imgur.com/EsefCHZ.png"></div><div class="caption">Ark／2</div></div>              <div class="gallery-item"><div class="image"><img src="https://i.imgur.com/Ff7CuaX.png"></div><div class="caption">Ark／5</div></div>              <div class="gallery-item"><div class="image"><img src="https://i.imgur.com/3tynj1C.png"></div><div class="caption">Epilogue</div></div>              <div class="gallery-item"><div class="image"><img src="https://i.imgur.com/i7n6jUn.png"></div><div class="caption">Epilogue</div></div>              <div class="gallery-item"><div class="image"><img src="https://i.imgur.com/orhfpr5.png"></div><div class="caption">Epilogue</div></div>              <div class="gallery-item"><div class="image"><img src="https://i.imgur.com/NRHZvdl.png"></div><div class="caption">Epilogue</div></div>            </div>          </div>        </div>        <div class="story-cards">          <div class="tab-header">            <div class="tab-header__name">Associated Cards</div>          </div>          <div class="tab-content">            <div class="cards">              <div class="cards-item"><div class="image"><div class="single unbloomed"><img src="https://i.imgur.com/N7UjIO7.png"></div><div class="single bloomed"><img src="https://i.imgur.com/c9hGOyF.png"></div></div><div class="lightbox"><div class="card__name">(Charm of the Four Kings of the Sky) Tori Himemiya</div><div class="card__jp">[四天王の魅力] 姫宮 桃李</div></div></div>              <div class="cards-item"><div class="image"><div class="single unbloomed"><img src="https://i.imgur.com/R02b1tC.png"></div><div class="single bloomed"><img src="https://i.imgur.com/4bIXHkG.png"></div></div><div class="lightbox"><div class="card__name">(Future of the Four Kings of the Sky) Rei Sakuma</div><div class="card__jp">[四天王の未来] 朔間 零</div></div></div>              <div class="cards-item"><div class="image"><div class="single unbloomed"><img src="https://i.imgur.com/dIjptIO.png"></div><div class="single bloomed"><img src="https://i.imgur.com/d59ZuGz.png"></div></div><div class="lightbox"><div class="card__name">(Gamble of the Four Kings of the Sky) Rinne Amagi</div><div class="card__jp">[四天王の賭け] 天城 燐音</div></div></div>              <div class="cards-item"><div class="image"><div class="single unbloomed"><img src="https://i.imgur.com/oa1fkE7.png"></div><div class="single bloomed"><img src="https://i.imgur.com/SOvtIsN.png"></div></div><div class="lightbox"><div class="card__name">(Confidence of the Four Kings of the Sky) Madara Mikejima</div><div class="card__jp">[四天王の自信] 三毛縞 斑</div></div></div>              <div class="cards-item"><div class="image"><div class="single unbloomed"><img src="https://i.imgur.com/m0xxAOD.png"></div><div class="single bloomed"><img src="https://i.imgur.com/nywUSTY.png"></div></div><div class="lightbox"><div class="card__name">(Support from the Talented) Wataru Hibiki</div><div class="card__jp">[実力者の応援] 日々樹 渉</div></div></div>              <div class="cards-item"><div class="image"><div class="single unbloomed"><img src="https://i.imgur.com/ffcDMGE.png"></div><div class="single bloomed"><img src="https://i.imgur.com/FXc3001.png"></div></div><div class="lightbox"><div class="card__name">(Support from the New) Kanna</div><div class="card__jp">[新人の応援] カンナ</div></div></div>            </div>          </div>        </div>      </div>      <div class="chapter-area">        <div class="chapters">          <ul>            <li><a href="https://koou21.github.io/metamorphose/chitose_tsuzura/">Chitose Tsuzura: Bystander in an Ambiguous World</a></li>            <li><a href="https://koou21.github.io/metamorphose/prologue/">Prologue</a></li>            <li>              <span>Eclosion</span>              <a href="https://koou21.github.io/metamorphose/eclosion/#Chapter-1">1</a>              <a href="https://koou21.github.io/metamorphose/eclosion/#Chapter-2">2</a>              <a href="https://koou21.github.io/metamorphose/eclosion/#Chapter-3">3</a>              <a href="https://koou21.github.io/metamorphose/eclosion/#Chapter-4">4</a>              <a href="https://koou21.github.io/metamorphose/eclosion/#Chapter-5">5</a>            </li>            <li>              <span>Ark</span>              <a href="https://koou21.github.io/metamorphose/ark/#Chapter-1">1</a>              <a href="https://koou21.github.io/metamorphose/ark/#Chapter-2">2</a>              <a href="https://koou21.github.io/metamorphose/ark/#Chapter-3">3</a>              <a href="https://koou21.github.io/metamorphose/ark/#Chapter-4">4</a>              <a href="https://koou21.github.io/metamorphose/ark/#Chapter-5">5</a>            </li>            <li><a href="https://koou21.github.io/metamorphose/ark/epilogue/">Epilogue</a></li>          </ul>        </div>        <div class="mini-talks">          <div class="mini-talk">            <div class="mt-header">TBA</div>            <div class="mt-content">              <div class="item">                <a href="mini_talk/tori/1" id="none">1</a>                <a href="mini_talk/tori/2">2</a>              </div>            </div>          </div>        </div>      </div>    </div>  </div></div><script> <!-- IMPORTANT! removes story preview -->$(document).ready(function() {    $('.preview-wrapper').remove();</script><span id="more"></span>]]></content>
     
     
     <summary type="html">&lt;style&gt;
@@ -95,332 +118,164 @@
         }
     }
 &lt;/style&gt;
-&lt;div class=&quot;story-wrapper mobile-reverse&quot; style=&quot;--storyColor: #454a8f;--storyColor-rgb: 69, 74, 143;--storyColor-h: 0;--storyColor-s: 0%;--storyColor-l: 20%;&quot;&gt;
-    &lt;div class=&quot;grid-wrapper&quot;&gt;
-        &lt;div class=&quot;story-background&quot; style=&quot;background-image: url(&#39;https://i.imgur.com/H9qeFSp.png&#39;)&quot;&gt;&lt;/div&gt;
-        &lt;div class=&quot;story-box&quot;&gt;
-            &lt;div class=&quot;story-cover&quot;&gt;
-                &lt;div&gt;&lt;img src=&quot;https://i.imgur.com/VTM1SmK.png&quot;&gt;&lt;/div&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;title-area&quot;&gt;
-                &lt;div class=&quot;title-area__title&quot;&gt;Metamorphose&lt;/div&gt;
-                &lt;div class=&quot;title-area__subtitle&quot;&gt;メタモルフォーゼ&lt;/div&gt;
-                &lt;div class=&quot;title-area__start&quot;&gt;
-                    &lt;a href=&quot;https://koou21.tumblr.com/post/795989198101512192/metamorphose-chitose-tsuzura&quot;&gt;Start Reading&lt;/a&gt;
-                &lt;/div&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;info-area&quot;&gt;
-                &lt;div class=&quot;synopsis&quot;&gt;
-                    4piece has ended and the idols’ lives have returned to normalcy, when one day, the mysterious blimp Mega Sphere suddenly flies into the sky above ES. With Tori, Rei, Rinne, and Madara calling themselves the &quot;Four Kings of the Sky,” a never before seen live is about to begin…! &lt;span style=&quot;display:inline-block&quot;&gt;&lt;/span&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;info&quot;&gt;
-                    &lt;div class=&quot;info-item season&quot;&gt;
-                        &lt;div class=&quot;label&quot;&gt;
-                            Season
-                        &lt;/div&gt;
-                        &lt;div class=&quot;value&quot;&gt;
-                            Summer
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    &lt;div class=&quot;info-item chapters&quot;&gt;
-                        &lt;div class=&quot;label&quot;&gt;
-                            Chapters
-                        &lt;/div&gt;
-                        &lt;div class=&quot;value&quot;&gt;
-                            13
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    &lt;div class=&quot;info-item writer&quot;&gt;
-                        &lt;div class=&quot;label&quot;&gt;
-                            Writer
-                        &lt;/div&gt;
-                        &lt;div class=&quot;value&quot;&gt;
-                            Happy Elements K.K
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    &lt;div class=&quot;info-item characters&quot;&gt;
-                        &lt;div class=&quot;label&quot;&gt;
-                            Characters
-                        &lt;/div&gt;
-                        &lt;div class=&quot;value&quot;&gt;
-                            &lt;a href=&quot;/tl/categories/Ensemble-Stars/Tori-Himemiya/&quot; character=&quot;Tori&quot;&gt;&lt;/a&gt;
-                            &lt;a href=&quot;/tl/categories/Ensemble-Stars/Subaru-Akehoshi/&quot; character=&quot;Subaru&quot;&gt;&lt;/a&gt;
-                            &lt;a href=&quot;/tl/categories/Ensemble-Stars/Hokuto-Hidaka/&quot; character=&quot;Hokuto&quot;&gt;&lt;/a&gt;
-                            &lt;a href=&quot;/tl/categories/Ensemble-Stars/Makoto-Yuuki/&quot; character=&quot;Makoto&quot;&gt;&lt;/a&gt;
-                            &lt;a href=&quot;/tl/categories/Ensemble-Stars/Mao-Isara/&quot; character=&quot;Mao&quot;&gt;&lt;/a&gt;
-                            &lt;a href=&quot;/tl/categories/Ensemble-Stars/Yuzuru-Fushimi/&quot; character=&quot;Yuzuru&quot;&gt;&lt;/a&gt;
-                            &lt;a href=&quot;/tl/categories/Ensemble-Stars/Eichi-Tenshouin/&quot; character=&quot;Eichi&quot;&gt;&lt;/a&gt;
-                            &lt;a href=&quot;/tl/categories/Ensemble-Stars/Rei-Sakuma/&quot; character=&quot;Rei&quot;&gt;&lt;/a&gt;
-                            &lt;a href=&quot;/tl/categories/Ensemble-Stars/Wataru-Hibiki/&quot; character=&quot;Wataru&quot;&gt;&lt;/a&gt;
-                            &lt;a href=&quot;/tl/categories/Ensemble-Stars/Shu-Itsuki/&quot; character=&quot;Shu&quot;&gt;&lt;/a&gt;
-                            &lt;a href=&quot;/tl/categories/Ensemble-Stars/Madara-Mikejima/&quot; character=&quot;Madara&quot;&gt;&lt;/a&gt;
-                            &lt;a href=&quot;/tl/categories/Ensemble-Stars/Rinne-Amagi/&quot; character=&quot;Rinne&quot;&gt;&lt;/a&gt;
-                            &lt;a href=&quot;/tl/categories/Ensemble-Stars/HiMERU/&quot; character=&quot;HiMERU&quot;&gt;&lt;/a&gt;
-                            &lt;a href=&quot;/tl/categories/Ensemble-Stars/Kohaku-Oukawa/&quot; character=&quot;Kohaku&quot;&gt;&lt;/a&gt;
-                            &lt;a href=&quot;/tl/categories/Ensemble-Stars/Niki-Shiina/&quot; character=&quot;Niki&quot;&gt;&lt;/a&gt;
-                            &lt;a href=&quot;/tl/categories/Ensemble-Stars/Kanna/&quot; character=&quot;Kanna&quot;&gt;&lt;/a&gt;
-                            &lt;a href=&quot;/tl/categories/Ensemble-Stars/Nice-Arneb-Thunder/&quot; character=&quot;Nice&quot;&gt;&lt;/a&gt;
-                            &lt;a href=&quot;/tl/categories/Ensemble-Stars/Chitose-Tsuzura/&quot; character=&quot;Chitose&quot;&gt;&lt;/a&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    &lt;div class=&quot;info-item tl&quot;&gt;
-                        &lt;div class=&quot;label&quot;&gt;
-                            Translators
-                        &lt;/div&gt;
-                        &lt;div class=&quot;value&quot;&gt;
-                            &lt;a href=&quot;https://koou21.tumblr.com&quot; target=&quot;_blank&quot;&gt;lukas&lt;/a&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    &lt;div class=&quot;info-item pr&quot;&gt;
-                        &lt;div class=&quot;label&quot;&gt;
-                            Proofreaders
-                        &lt;/div&gt;
-                        &lt;div class=&quot;value&quot;&gt;
-                            Not proofread.
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;extra-area&quot;&gt;
-                    &lt;div class=&quot;tab-header&quot;&gt;
-                        &lt;div class=&quot;tab-header__name&quot;&gt;Extra Information&lt;/div&gt;
-                    &lt;/div&gt;
-                    &lt;div class=&quot;tab-content&quot;&gt;
-                        &lt;div class=&quot;tab-item&quot;&gt;
-                            &lt;div class=&quot;label&quot;&gt;
-                                Event
-                            &lt;/div&gt;
-                            &lt;div class=&quot;value&quot;&gt;
-                                Mega Stream Arc／PREQUEL: Metamorphose
-                            &lt;/div&gt;
-                        &lt;/div&gt;
-                        &lt;div class=&quot;tab-item&quot;&gt;
-                            &lt;div class=&quot;label&quot;&gt;
-                                Event Duration
-                            &lt;/div&gt;
-                            &lt;div class=&quot;value&quot;&gt;
-                                4/15/2025 (15:00 JST) - 4/24/2025 (22:00 JST)
-                            &lt;/div&gt;
-                        &lt;/div&gt;
-                &lt;div class=&quot;comment-area&quot;&gt;
-                    &lt;div class=&quot;tab-header&quot;&gt;
-                        &lt;div class=&quot;tab-header__name&quot;&gt;Translator&#39;s Comments&lt;/div&gt;
-                    &lt;/div&gt;
-                    &lt;div class=&quot;tab-content&quot;&gt;
-                        This is a very important story for Tori, it shows his growth and independence.
-                    &lt;/div&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;cg-gallery&quot;&gt;
-                    &lt;div class=&quot;tab-header&quot;&gt;
-                        &lt;div class=&quot;tab-header__name&quot;&gt;CG Gallery&lt;/div&gt;
-                    &lt;/div&gt;
-                    &lt;div class=&quot;tab-content&quot;&gt;
-                        &lt;div class=&quot;gallery&quot;&gt;
-                            &lt;div class=&quot;gallery-item&quot;&gt;
-                                &lt;div class=&quot;image&quot;&gt;
-                                    &lt;img src=&quot;https://i.imgur.com/xzUIh33.png&quot;&gt;
-                                &lt;/div&gt;
-                                &lt;div class=&quot;caption&quot;&gt;
-                                    Eclosion／2
-                                &lt;/div&gt;
-                            &lt;/div&gt;
-                            &lt;div class=&quot;gallery-item&quot;&gt;
-                                &lt;div class=&quot;image&quot;&gt;
-                                    &lt;img src=&quot;https://i.imgur.com/GMIB1rZ.png&quot;&gt;
-                                &lt;/div&gt;
-                                &lt;div class=&quot;caption&quot;&gt;
-                                    Eclosion／3
-                                &lt;/div&gt;
-                            &lt;/div&gt;
-                            &lt;div class=&quot;gallery-item&quot;&gt;
-                                &lt;div class=&quot;image&quot;&gt;
-                                    &lt;img src=&quot;https://i.imgur.com/EsefCHZ.png&quot;&gt;
-                                &lt;/div&gt;
-                                &lt;div class=&quot;caption&quot;&gt;
-                                    Ark／2
-                                &lt;/div&gt;
-                            &lt;/div&gt;
-                            &lt;div class=&quot;gallery-item&quot;&gt;
-                                &lt;div class=&quot;image&quot;&gt;
-                                    &lt;img src=&quot;https://i.imgur.com/Ff7CuaX.png&quot;&gt;
-                                &lt;/div&gt;
-                                &lt;div class=&quot;caption&quot;&gt;
-                                    Ark／5
-                                &lt;/div&gt;
-                            &lt;/div&gt;
-                            &lt;div class=&quot;gallery-item&quot;&gt;
-                                &lt;div class=&quot;image&quot;&gt;
-                                    &lt;img src=&quot;https://i.imgur.com/3tynj1C.png&quot;&gt;
-                                &lt;/div&gt;
-                                &lt;div class=&quot;caption&quot;&gt;
-                                    Epilogue
-                                &lt;/div&gt;
-                            &lt;/div&gt;
-                            &lt;div class=&quot;gallery-item&quot;&gt;
-                                &lt;div class=&quot;image&quot;&gt;
-                                    &lt;img src=&quot;https://i.imgur.com/i7n6jUn.png&quot;&gt;
-                                &lt;/div&gt;
-                                &lt;div class=&quot;caption&quot;&gt;
-                                    Epilogue
-                                &lt;/div&gt;
-                            &lt;/div&gt;
-                            &lt;div class=&quot;gallery-item&quot;&gt;
-                                &lt;div class=&quot;image&quot;&gt;
-                                    &lt;img src=&quot;https://i.imgur.com/orhfpr5.png&quot;&gt;
-                                &lt;/div&gt;
-                                &lt;div class=&quot;caption&quot;&gt;
-                                    Epilogue
-                                &lt;/div&gt;
-                            &lt;/div&gt;
-                            &lt;div class=&quot;gallery-item&quot;&gt;
-                                &lt;div class=&quot;image&quot;&gt;
-                                    &lt;img src=&quot;https://i.imgur.com/NRHZvdl.png&quot;&gt;
-                                &lt;/div&gt;
-                                &lt;div class=&quot;caption&quot;&gt;
-                                    Epilogue
-                                &lt;/div&gt;
-                            &lt;/div&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;story-cards&quot;&gt;
-                    &lt;div class=&quot;tab-header&quot;&gt;
-                        &lt;div class=&quot;tab-header__name&quot;&gt;Associated Cards&lt;/div&gt;
-                    &lt;/div&gt;
-                    &lt;div class=&quot;tab-content&quot;&gt;
-                        &lt;div class=&quot;cards&quot;&gt;
-                            &lt;div class=&quot;cards-item&quot;&gt;
-                                &lt;div class=&quot;image&quot;&gt;
-                                    &lt;div class=&quot;single unbloomed&quot;&gt;
-                                        &lt;img src=&quot;https://i.imgur.com/N7UjIO7.png&quot;&gt;
-                                    &lt;/div&gt;
-                                    &lt;div class=&quot;single bloomed&quot;&gt;
-                                        &lt;img src=&quot;https://i.imgur.com/c9hGOyF.png&quot;&gt;
-                                    &lt;/div&gt;
-                                &lt;/div&gt;
-                                &lt;div class=&quot;lightbox&quot;&gt;
-                                    &lt;div class=&quot;card__name&quot;&gt;(Charm of the Four Kings of the Sky) Tori Himemiya&lt;/div&gt;
-                                    &lt;div class=&quot;card__jp&quot;&gt;[四天王の魅力] 姫宮 桃李&lt;/div&gt;
-                                &lt;/div&gt;
-                            &lt;/div&gt;
-                            &lt;div class=&quot;cards-item&quot;&gt;
-                                &lt;div class=&quot;image&quot;&gt;
-                                    &lt;div class=&quot;single unbloomed&quot;&gt;
-                                        &lt;img src=&quot;https://i.imgur.com/R02b1tC.png&quot;&gt;
-                                    &lt;/div&gt;
-                                    &lt;div class=&quot;single bloomed&quot;&gt;
-                                        &lt;img src=&quot;https://i.imgur.com/4bIXHkG.png&quot;&gt;
-                                    &lt;/div&gt;
-                                &lt;/div&gt;
-                                &lt;div class=&quot;lightbox&quot;&gt;
-                                    &lt;div class=&quot;card__name&quot;&gt;(Future of the Four Kings of the Sky) Rei Sakuma&lt;/div&gt;
-                                    &lt;div class=&quot;card__jp&quot;&gt;[四天王の未来] 朔間 零&lt;/div&gt;
-                                &lt;/div&gt;
-                            &lt;/div&gt;
-                            &lt;div class=&quot;cards-item&quot;&gt;
-                                &lt;div class=&quot;image&quot;&gt;
-                                    &lt;div class=&quot;single unbloomed&quot;&gt;
-                                        &lt;img src=&quot;https://i.imgur.com/dIjptIO.png&quot;&gt;
-                                    &lt;/div&gt;
-                                    &lt;div class=&quot;single bloomed&quot;&gt;
-                                        &lt;img src=&quot;https://i.imgur.com/d59ZuGz.png&quot;&gt;
-                                    &lt;/div&gt;
-                                &lt;/div&gt;
-                                &lt;div class=&quot;lightbox&quot;&gt;
-                                    &lt;div class=&quot;card__name&quot;&gt;(Gamble of the Four Kings of the Sky) Rinne Amagi&lt;/div&gt;
-                                    &lt;div class=&quot;card__jp&quot;&gt;[四天王の賭け] 天城 燐音&lt;/div&gt;
-                                &lt;/div&gt;
-                            &lt;/div&gt;
-                            &lt;div class=&quot;cards-item&quot;&gt;
-                                &lt;div class=&quot;image&quot;&gt;
-                                    &lt;div class=&quot;single unbloomed&quot;&gt;
-                                        &lt;img src=&quot;https://i.imgur.com/oa1fkE7.png&quot;&gt;
-                                    &lt;/div&gt;
-                                    &lt;div class=&quot;single bloomed&quot;&gt;
-                                        &lt;img src=&quot;https://i.imgur.com/SOvtIsN.png&quot;&gt;
-                                    &lt;/div&gt;
-                                &lt;/div&gt;
-                                &lt;div class=&quot;lightbox&quot;&gt;
-                                    &lt;div class=&quot;card__name&quot;&gt;(Confidence of the Four Kings of the Sky) Madara Mikejima&lt;/div&gt;
-                                    &lt;div class=&quot;card__jp&quot;&gt;[四天王の自信] 三毛縞 斑&lt;/div&gt;
-                                &lt;/div&gt;
-                            &lt;/div&gt;
-                            &lt;div class=&quot;cards-item&quot;&gt;
-                                &lt;div class=&quot;image&quot;&gt;
-                                    &lt;div class=&quot;single unbloomed&quot;&gt;
-                                        &lt;img src=&quot;https://i.imgur.com/m0xxAOD.png&quot;&gt;
-                                    &lt;/div&gt;
-                                    &lt;div class=&quot;single bloomed&quot;&gt;
-                                        &lt;img src=&quot;https://i.imgur.com/nywUSTY.png&quot;&gt;
-                                    &lt;/div&gt;
-                                &lt;/div&gt;
-                                &lt;div class=&quot;lightbox&quot;&gt;
-                                    &lt;div class=&quot;card__name&quot;&gt;(Support from the Talented) Wataru Hibiki&lt;/div&gt;
-                                    &lt;div class=&quot;card__jp&quot;&gt;[実力者の応援] 日々樹 渉&lt;/div&gt;          
-                                &lt;/div&gt;
-                            &lt;/div&gt;
-                            &lt;div class=&quot;cards-item&quot;&gt;
-                                &lt;div class=&quot;image&quot;&gt;
-                                    &lt;div class=&quot;single unbloomed&quot;&gt;
-                                        &lt;img src=&quot;https://i.imgur.com/ffcDMGE.png&quot;&gt;
-                                    &lt;/div&gt;
-                                    &lt;div class=&quot;single bloomed&quot;&gt;
-                                        &lt;img src=&quot;https://i.imgur.com/FXc3001.png&quot;&gt;
-                                    &lt;/div&gt;
-                                &lt;/div&gt;
-                                &lt;div class=&quot;lightbox&quot;&gt;
-                                    &lt;div class=&quot;card__name&quot;&gt;(Support from the New) Kanna&lt;/div&gt;
-                                    &lt;div class=&quot;card__jp&quot;&gt;[新人の応援] カンナ&lt;/div&gt;
-                                &lt;/div&gt;
-                            &lt;/div&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/div&gt;
-            &lt;/div&gt;
-            &lt;/div&gt;
-            &lt;/div&gt;
-            &lt;div class=&quot;chapter-area&quot;&gt;
-                &lt;div class=&quot;chapters&quot;&gt;
-                    &lt;ul&gt;
-                        &lt;li&gt;
-                            &lt;a href=&quot;https://koou21.github.io/metamorphose/chitose_tsuzura/&quot;&gt;Chitose Tsuzura: Bystander in an Ambiguous World&lt;/a&gt;
-                        &lt;/li&gt;
-                         &lt;li&gt;
-                            &lt;a href=&quot;https://koou21.github.io/metamorphose/prologue/&quot;&gt;Prologue&lt;/a&gt;
-                        &lt;/li&gt;
-                        &lt;li&gt;
-                            &lt;span&gt;Eclosion&lt;/span&gt;
-                            &lt;a href=&quot;https://koou21.github.io/metamorphose/eclosion/#Chapter-1&quot;&gt;1&lt;/a&gt;
-                            &lt;a href=&quot;https://koou21.github.io/metamorphose/eclosion/#Chapter-2&quot;&gt;2&lt;/a&gt;
-                            &lt;a href=&quot;https://koou21.github.io/metamorphose/eclosion/#Chapter-3&quot;&gt;3&lt;/a&gt;
-                            &lt;a href=&quot;https://koou21.github.io/metamorphose/eclosion/#Chapter-4&quot;&gt;4&lt;/a&gt;
-                            &lt;a href=&quot;https://koou21.github.io/metamorphose/eclosion/#Chapter-5&quot;&gt;5&lt;/a&gt;
-                        &lt;/li&gt;
-                        &lt;li&gt;
-                            &lt;span&gt;Ark&lt;/span&gt;
-                            &lt;a href=&quot;https://koou21.github.io/metamorphose/ark/#Chapter-1&quot;&gt;1&lt;/a&gt;
-                            &lt;a href=&quot;https://koou21.github.io/metamorphose/ark/#Chapter-2&quot;&gt;2&lt;/a&gt;
-                            &lt;a href=&quot;https://koou21.github.io/metamorphose/ark/#Chapter-3&quot;&gt;3&lt;/a&gt;
-                            &lt;a href=&quot;https://koou21.github.io/metamorphose/ark/#Chapter-4&quot;&gt;4&lt;/a&gt;
-                            &lt;a href=&quot;https://koou21.github.io/metamorphose/ark/#Chapter-5&quot;&gt;5&lt;/a&gt;
-                        &lt;li&gt;
-                            &lt;a href=&quot;https://koou21.github.io/metamorphose/ark/epilogue/&quot;&gt;Epilogue&lt;/a&gt;
-                        &lt;/li&gt;
-                    &lt;/ul&gt;
-                &lt;/div&gt;
-                &lt;div class=&quot;mini-talks&quot;&gt;
-                    &lt;div class=&quot;mini-talk&quot;&gt;
-                        &lt;div class=&quot;mt-header&quot;&gt;TBA&lt;/div&gt;
-                        &lt;div class=&quot;mt-content&quot;&gt;
-                        &lt;div class=&quot;item&quot;&gt;
-                            &lt;a href=&quot;mini_talk/tori/1&quot; id=&quot;none&quot;&gt;1&lt;/a&gt;
-                            &lt;a href=&quot;mini_talk/tori/2&quot;&gt;2&lt;/a&gt;
-                            &lt;/div&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/div&gt;
-            &lt;/div&gt;
+&lt;div class=&quot;story-wrapper mobile-reverse&quot; style=&quot;--storyColor:#454a8f;--storyColor-rgb:69,74,143;--storyColor-h:0;--storyColor-s:0%;--storyColor-l:20%;&quot;&gt;
+  &lt;div class=&quot;grid-wrapper&quot;&gt;
+    &lt;div class=&quot;story-background&quot; style=&quot;background-image:url(&#39;https://i.imgur.com/H9qeFSp.png&#39;)&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;story-box&quot;&gt;
+      &lt;div class=&quot;story-cover&quot;&gt;
+        &lt;div&gt;&lt;img src=&quot;https://i.imgur.com/VTM1SmK.png&quot;&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;title-area&quot;&gt;
+        &lt;div class=&quot;title-area__title&quot;&gt;Metamorphose&lt;/div&gt;
+        &lt;div class=&quot;title-area__subtitle&quot;&gt;メタモルフォーゼ&lt;/div&gt;
+        &lt;div class=&quot;title-area__start&quot;&gt;
+          &lt;a href=&quot;https://koou21.tumblr.com/post/795989198101512192/metamorphose-chitose-tsuzura&quot;&gt;Start Reading&lt;/a&gt;
         &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;info-area&quot;&gt;
+        &lt;div class=&quot;synopsis&quot;&gt;
+          4piece has ended and the idols’ lives have returned to normalcy, when one day, the mysterious blimp Mega Sphere suddenly flies into the sky above ES. With Tori, Rei, Rinne, and Madara calling themselves the &quot;Four Kings of the Sky,” a never before seen live is about to begin…!
+          &lt;span style=&quot;display:inline-block&quot;&gt;&lt;/span&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;info&quot;&gt;
+          &lt;div class=&quot;info-item season&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;Season&lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;Summer&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item chapters&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;Chapters&lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;13&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item writer&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;Writer&lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;Happy Elements K.K&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item characters&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;Characters&lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              &lt;a href=&quot;/tl/categories/Ensemble-Stars/Tori-Himemiya/&quot; character=&quot;Tori&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/tl/categories/Ensemble-Stars/Subaru-Akehoshi/&quot; character=&quot;Subaru&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/tl/categories/Ensemble-Stars/Hokuto-Hidaka/&quot; character=&quot;Hokuto&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/tl/categories/Ensemble-Stars/Makoto-Yuuki/&quot; character=&quot;Makoto&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/tl/categories/Ensemble-Stars/Mao-Isara/&quot; character=&quot;Mao&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/tl/categories/Ensemble-Stars/Yuzuru-Fushimi/&quot; character=&quot;Yuzuru&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/tl/categories/Ensemble-Stars/Eichi-Tenshouin/&quot; character=&quot;Eichi&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/tl/categories/Ensemble-Stars/Rei-Sakuma/&quot; character=&quot;Rei&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/tl/categories/Ensemble-Stars/Wataru-Hibiki/&quot; character=&quot;Wataru&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/tl/categories/Ensemble-Stars/Shu-Itsuki/&quot; character=&quot;Shu&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/tl/categories/Ensemble-Stars/Madara-Mikejima/&quot; character=&quot;Madara&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/tl/categories/Ensemble-Stars/Rinne-Amagi/&quot; character=&quot;Rinne&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/tl/categories/Ensemble-Stars/HiMERU/&quot; character=&quot;HiMERU&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/tl/categories/Ensemble-Stars/Kohaku-Oukawa/&quot; character=&quot;Kohaku&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/tl/categories/Ensemble-Stars/Niki-Shiina/&quot; character=&quot;Niki&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/tl/categories/Ensemble-Stars/Kanna/&quot; character=&quot;Kanna&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/tl/categories/Ensemble-Stars/Nice-Arneb-Thunder/&quot; character=&quot;Nice&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/tl/categories/Ensemble-Stars/Chitose-Tsuzura/&quot; character=&quot;Chitose&quot;&gt;&lt;/a&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item tl&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;Translators&lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;&lt;a href=&quot;https://koou21.tumblr.com&quot; target=&quot;_blank&quot;&gt;lukas&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item pr&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;Proofreaders&lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;Not proofread.&lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;extra-area&quot;&gt;
+          &lt;div class=&quot;tab-header&quot;&gt;
+            &lt;div class=&quot;tab-header__name&quot;&gt;Extra Information&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;tab-content&quot;&gt;
+            &lt;div class=&quot;tab-item&quot;&gt;
+              &lt;div class=&quot;label&quot;&gt;Event&lt;/div&gt;
+              &lt;div class=&quot;value&quot;&gt;Mega Stream Arc／PREQUEL: Metamorphose&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;tab-item&quot;&gt;
+              &lt;div class=&quot;label&quot;&gt;Event Duration&lt;/div&gt;
+              &lt;div class=&quot;value&quot;&gt;4/15/2025 (15:00 JST) - 4/24/2025 (22:00 JST)&lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;comment-area&quot;&gt;
+          &lt;div class=&quot;tab-header&quot;&gt;
+            &lt;div class=&quot;tab-header__name&quot;&gt;Translator&#39;s Comments&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;tab-content&quot;&gt;
+            This is a very important story for Tori, it shows his growth and independence.
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;cg-gallery&quot;&gt;
+          &lt;div class=&quot;tab-header&quot;&gt;
+            &lt;div class=&quot;tab-header__name&quot;&gt;CG Gallery&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;tab-content&quot;&gt;
+            &lt;div class=&quot;gallery&quot;&gt;
+              &lt;div class=&quot;gallery-item&quot;&gt;&lt;div class=&quot;image&quot;&gt;&lt;img src=&quot;https://i.imgur.com/xzUIh33.png&quot;&gt;&lt;/div&gt;&lt;div class=&quot;caption&quot;&gt;Eclosion／2&lt;/div&gt;&lt;/div&gt;
+              &lt;div class=&quot;gallery-item&quot;&gt;&lt;div class=&quot;image&quot;&gt;&lt;img src=&quot;https://i.imgur.com/GMIB1rZ.png&quot;&gt;&lt;/div&gt;&lt;div class=&quot;caption&quot;&gt;Eclosion／3&lt;/div&gt;&lt;/div&gt;
+              &lt;div class=&quot;gallery-item&quot;&gt;&lt;div class=&quot;image&quot;&gt;&lt;img src=&quot;https://i.imgur.com/EsefCHZ.png&quot;&gt;&lt;/div&gt;&lt;div class=&quot;caption&quot;&gt;Ark／2&lt;/div&gt;&lt;/div&gt;
+              &lt;div class=&quot;gallery-item&quot;&gt;&lt;div class=&quot;image&quot;&gt;&lt;img src=&quot;https://i.imgur.com/Ff7CuaX.png&quot;&gt;&lt;/div&gt;&lt;div class=&quot;caption&quot;&gt;Ark／5&lt;/div&gt;&lt;/div&gt;
+              &lt;div class=&quot;gallery-item&quot;&gt;&lt;div class=&quot;image&quot;&gt;&lt;img src=&quot;https://i.imgur.com/3tynj1C.png&quot;&gt;&lt;/div&gt;&lt;div class=&quot;caption&quot;&gt;Epilogue&lt;/div&gt;&lt;/div&gt;
+              &lt;div class=&quot;gallery-item&quot;&gt;&lt;div class=&quot;image&quot;&gt;&lt;img src=&quot;https://i.imgur.com/i7n6jUn.png&quot;&gt;&lt;/div&gt;&lt;div class=&quot;caption&quot;&gt;Epilogue&lt;/div&gt;&lt;/div&gt;
+              &lt;div class=&quot;gallery-item&quot;&gt;&lt;div class=&quot;image&quot;&gt;&lt;img src=&quot;https://i.imgur.com/orhfpr5.png&quot;&gt;&lt;/div&gt;&lt;div class=&quot;caption&quot;&gt;Epilogue&lt;/div&gt;&lt;/div&gt;
+              &lt;div class=&quot;gallery-item&quot;&gt;&lt;div class=&quot;image&quot;&gt;&lt;img src=&quot;https://i.imgur.com/NRHZvdl.png&quot;&gt;&lt;/div&gt;&lt;div class=&quot;caption&quot;&gt;Epilogue&lt;/div&gt;&lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;story-cards&quot;&gt;
+          &lt;div class=&quot;tab-header&quot;&gt;
+            &lt;div class=&quot;tab-header__name&quot;&gt;Associated Cards&lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;tab-content&quot;&gt;
+            &lt;div class=&quot;cards&quot;&gt;
+              &lt;div class=&quot;cards-item&quot;&gt;&lt;div class=&quot;image&quot;&gt;&lt;div class=&quot;single unbloomed&quot;&gt;&lt;img src=&quot;https://i.imgur.com/N7UjIO7.png&quot;&gt;&lt;/div&gt;&lt;div class=&quot;single bloomed&quot;&gt;&lt;img src=&quot;https://i.imgur.com/c9hGOyF.png&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;lightbox&quot;&gt;&lt;div class=&quot;card__name&quot;&gt;(Charm of the Four Kings of the Sky) Tori Himemiya&lt;/div&gt;&lt;div class=&quot;card__jp&quot;&gt;[四天王の魅力] 姫宮 桃李&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+              &lt;div class=&quot;cards-item&quot;&gt;&lt;div class=&quot;image&quot;&gt;&lt;div class=&quot;single unbloomed&quot;&gt;&lt;img src=&quot;https://i.imgur.com/R02b1tC.png&quot;&gt;&lt;/div&gt;&lt;div class=&quot;single bloomed&quot;&gt;&lt;img src=&quot;https://i.imgur.com/4bIXHkG.png&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;lightbox&quot;&gt;&lt;div class=&quot;card__name&quot;&gt;(Future of the Four Kings of the Sky) Rei Sakuma&lt;/div&gt;&lt;div class=&quot;card__jp&quot;&gt;[四天王の未来] 朔間 零&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+              &lt;div class=&quot;cards-item&quot;&gt;&lt;div class=&quot;image&quot;&gt;&lt;div class=&quot;single unbloomed&quot;&gt;&lt;img src=&quot;https://i.imgur.com/dIjptIO.png&quot;&gt;&lt;/div&gt;&lt;div class=&quot;single bloomed&quot;&gt;&lt;img src=&quot;https://i.imgur.com/d59ZuGz.png&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;lightbox&quot;&gt;&lt;div class=&quot;card__name&quot;&gt;(Gamble of the Four Kings of the Sky) Rinne Amagi&lt;/div&gt;&lt;div class=&quot;card__jp&quot;&gt;[四天王の賭け] 天城 燐音&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+              &lt;div class=&quot;cards-item&quot;&gt;&lt;div class=&quot;image&quot;&gt;&lt;div class=&quot;single unbloomed&quot;&gt;&lt;img src=&quot;https://i.imgur.com/oa1fkE7.png&quot;&gt;&lt;/div&gt;&lt;div class=&quot;single bloomed&quot;&gt;&lt;img src=&quot;https://i.imgur.com/SOvtIsN.png&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;lightbox&quot;&gt;&lt;div class=&quot;card__name&quot;&gt;(Confidence of the Four Kings of the Sky) Madara Mikejima&lt;/div&gt;&lt;div class=&quot;card__jp&quot;&gt;[四天王の自信] 三毛縞 斑&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+              &lt;div class=&quot;cards-item&quot;&gt;&lt;div class=&quot;image&quot;&gt;&lt;div class=&quot;single unbloomed&quot;&gt;&lt;img src=&quot;https://i.imgur.com/m0xxAOD.png&quot;&gt;&lt;/div&gt;&lt;div class=&quot;single bloomed&quot;&gt;&lt;img src=&quot;https://i.imgur.com/nywUSTY.png&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;lightbox&quot;&gt;&lt;div class=&quot;card__name&quot;&gt;(Support from the Talented) Wataru Hibiki&lt;/div&gt;&lt;div class=&quot;card__jp&quot;&gt;[実力者の応援] 日々樹 渉&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+              &lt;div class=&quot;cards-item&quot;&gt;&lt;div class=&quot;image&quot;&gt;&lt;div class=&quot;single unbloomed&quot;&gt;&lt;img src=&quot;https://i.imgur.com/ffcDMGE.png&quot;&gt;&lt;/div&gt;&lt;div class=&quot;single bloomed&quot;&gt;&lt;img src=&quot;https://i.imgur.com/FXc3001.png&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;lightbox&quot;&gt;&lt;div class=&quot;card__name&quot;&gt;(Support from the New) Kanna&lt;/div&gt;&lt;div class=&quot;card__jp&quot;&gt;[新人の応援] カンナ&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;chapter-area&quot;&gt;
+        &lt;div class=&quot;chapters&quot;&gt;
+          &lt;ul&gt;
+            &lt;li&gt;&lt;a href=&quot;https://koou21.github.io/metamorphose/chitose_tsuzura/&quot;&gt;Chitose Tsuzura: Bystander in an Ambiguous World&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;https://koou21.github.io/metamorphose/prologue/&quot;&gt;Prologue&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;
+              &lt;span&gt;Eclosion&lt;/span&gt;
+              &lt;a href=&quot;https://koou21.github.io/metamorphose/eclosion/#Chapter-1&quot;&gt;1&lt;/a&gt;
+              &lt;a href=&quot;https://koou21.github.io/metamorphose/eclosion/#Chapter-2&quot;&gt;2&lt;/a&gt;
+              &lt;a href=&quot;https://koou21.github.io/metamorphose/eclosion/#Chapter-3&quot;&gt;3&lt;/a&gt;
+              &lt;a href=&quot;https://koou21.github.io/metamorphose/eclosion/#Chapter-4&quot;&gt;4&lt;/a&gt;
+              &lt;a href=&quot;https://koou21.github.io/metamorphose/eclosion/#Chapter-5&quot;&gt;5&lt;/a&gt;
+            &lt;/li&gt;
+            &lt;li&gt;
+              &lt;span&gt;Ark&lt;/span&gt;
+              &lt;a href=&quot;https://koou21.github.io/metamorphose/ark/#Chapter-1&quot;&gt;1&lt;/a&gt;
+              &lt;a href=&quot;https://koou21.github.io/metamorphose/ark/#Chapter-2&quot;&gt;2&lt;/a&gt;
+              &lt;a href=&quot;https://koou21.github.io/metamorphose/ark/#Chapter-3&quot;&gt;3&lt;/a&gt;
+              &lt;a href=&quot;https://koou21.github.io/metamorphose/ark/#Chapter-4&quot;&gt;4&lt;/a&gt;
+              &lt;a href=&quot;https://koou21.github.io/metamorphose/ark/#Chapter-5&quot;&gt;5&lt;/a&gt;
+            &lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;https://koou21.github.io/metamorphose/ark/epilogue/&quot;&gt;Epilogue&lt;/a&gt;&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;mini-talks&quot;&gt;
+          &lt;div class=&quot;mini-talk&quot;&gt;
+            &lt;div class=&quot;mt-header&quot;&gt;TBA&lt;/div&gt;
+            &lt;div class=&quot;mt-content&quot;&gt;
+              &lt;div class=&quot;item&quot;&gt;
+                &lt;a href=&quot;mini_talk/tori/1&quot; id=&quot;none&quot;&gt;1&lt;/a&gt;
+                &lt;a href=&quot;mini_talk/tori/2&quot;&gt;2&lt;/a&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
     &lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 &lt;script&gt; &lt;!-- IMPORTANT! removes story preview --&gt;
 $(document).ready(function() {
@@ -437,9 +292,9 @@ $(document).ready(function() {
     <link href="https://koou21.github.io/shoe_sores_and_aching_muscles/"/>
     <id>https://koou21.github.io/shoe_sores_and_aching_muscles/</id>
     <published>2025-09-14T18:03:41.000Z</published>
-    <updated>2025-10-12T18:32:34.825Z</updated>
+    <updated>2025-10-12T19:02:58.267Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" href="../../css/lukas.css"><link rel="stylesheet" href="../../css/custom.css"><center><b>(My Own Distance) Kohaku Oukawa</b></center><table>    <thead>        <tr>            <th style="text-align:center">                <center><img src="https://i.imgur.com/3kpAzrA.png" alt=""></center>            </th>            <th style="text-align:center">                    <center><img src="https://i.imgur.com/8BfZjOD.png" alt=""></center>            </th>        </tr>    </thead></table><center><i>Although uncertain, Kohaku searches for the answer to how he wants to express his "current” self. He looks back on the path he has walked as an idol, when…</i></center><div class="three-wrapper" style="--storyColor:#009c96;--storyColor-rgb:191, 199, 199;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">    <div class="info-area">        <div class="info">            <div class="info-item characters">                <div class="label">                    Characters                </div>                <div class="value">                    <a href="/categories/Enstars/Kohaku" character="Kohaku"></a>                    <a href="/categories/Enstars/Esu" character="Esu"></a>                </div>            </div>            <div class="info-item one">                <div class="label">                    Writer                </div>                <div class="value">                    Happy Elements K.K.                </div>            </div>            <div class="info-item two">                <div class="label">                    Translation                </div>                <div class="value">                    <a href="https://koou21.github.io" target="_blank">lukas</a>                </div>            </div>            <div class="info-item three">                <div class="label">                   Proofreading                </div>                <div class="value">                Not Proofread                </div>            </div>        </div>    </div></div><div class="msr-season summer">  <span><b>Season:</b> Summer</span></div><div class="msr-location">  <span><b>Location:</b>    Mega Sphere Producer Room  </span></div><img src="https://i.imgur.com/ftEdtXk.png" class=""><div class=msr-unit character="Shu"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>What was that call just now? It sounded pretty chaotic—</p></div></div><div class=msr-unit character="Wataru"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Hehe. It seems they’ve been found. The new “Four Kings of the Sky”</p><p>Giving them the answer might be “too much,” perhaps. But this is also my way of thanking them for letting me participate in the fun event called 4piece</p><p>I wish you luck, Princess</p><p>You yourself are worthy of being a pioneer of this new era…♪</p></div></div><div class="nav-container">        <a href="https://koou21.github.io" class="home-btn">⌂</a>        <a href="https://koou21.github.io/metamorphose/prologue" class="prev">←</a>        <a href="https://koou21.github.io/metamorphose" class="center-link">⌂</a>        <a href="https://koou21.github.io/metamorphose/ark" class="next">→</a>        <a href="#top" class="top-btn">↑</a></div>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" href="../../css/lukas.css"><link rel="stylesheet" href="../../css/custom.css"><center><b>(My Own Distance) Kohaku Oukawa</b></center><table>    <thead>        <tr>            <th style="text-align:center">                <center><img src="https://i.imgur.com/3kpAzrA.png" alt=""></center>            </th>            <th style="text-align:center">                    <center><img src="https://i.imgur.com/8BfZjOD.png" alt=""></center>            </th>        </tr>    </thead></table><center><i>Although uncertain, Kohaku searches for the answer to how he wants to express his "current” self. He looks back on the path he has walked as an idol, when…</i></center><center>This story is associated witht the song <a href="https://koou21.github.io/sakurairo_no_claim/" target="_blank"><b>Sakurairo no Claim</b></a></center><br><div class="three-wrapper" style="--storyColor:#009c96;--storyColor-rgb:191, 199, 199;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">    <div class="info-area">        <div class="info">            <div class="info-item characters">                <div class="label">                    Characters                </div>                <div class="value">                    <a href="/categories/Enstars/Kohaku" character="Kohaku"></a>                    <a href="/categories/Enstars/Esu" character="Esu"></a>                </div>            </div>            <div class="info-item one">                <div class="label">                    Writer                </div>                <div class="value">                    Happy Elements K.K.                </div>            </div>            <div class="info-item two">                <div class="label">                    Translation                </div>                <div class="value">                    <a href="https://koou21.github.io" target="_blank">lukas</a>                </div>            </div>            <div class="info-item three">                <div class="label">                   Proofreading                </div>                <div class="value">                Not Proofread                </div>            </div>        </div>    </div></div><div class="msr-season summer">  <span><b>Season:</b> Summer</span></div><h2 id="Chapter-1">Chapter 1</h2><div class="msr-location">  <span><b>Location:</b>    Mega Sphere Producer Room  </span></div><img src="https://i.imgur.com/IAstIM1.png" class=""><div class=msr-unit character="Kohaku"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Phew, I’m wore out…</p><p>Finally made it. Sorry fer makin’ ya wait, Anzu-han, hope ya can forgive me?</p><p>I set out with plenty o’ time, but dang if I didn’t go an’ lose my way</p><p>Ain’t my first time comin’ to the Producer Room, yet it’s a funny thing. Guess I just assumed I’d get here no problem, an’ wound up headin’ clean the wrong way</p><p>When I realized it, I was standin’ smack dab in the opposite direction. Let out a weird yelp without meanin’ to</p><p>I figured, I managed fine in the city, I’ll be just fine here too… turns out that baseless confidence was just plain ol’ arrogance</p><p>…Come to think of it, when we first met, Anzu-han, it was kinda the same</p><p>I was lost at the station an’ you came up talkin’ to me. Ya remember?</p><p>I remember it clear. Back then I didn’t have the faintest clue where ES was, just stood there frozen</p><p>When it showed up after just walkin’ a bit, I was real shocked. Couldn’t believe I missed a buildin’ that huge. Felt pitiful</p><p>But well, it ain’t a bad memory. Since we was headin’ the same way, ya walked with me, even patched up my blisters</p><p>The city’s all glittery but cold somehow. Still, there’s good folks ‘round, that made me happy</p><p>…Even today, if I’d called ya, ya would’ve come pick me up? Anzu-han, you really are kind</p><p>But I ain’t no kid no more, ya know. Compared to back then, I can get anywhere on my own feet</p><p>I’m used to my shoes now, no more sore feet from walkin’ ‘round. Bein’ clueless ‘bout left or right, that’s all in the past</p><p>…Well, gettin’ lost in the first place still ain’t exactly cool</p><p>At least ya didn’t see me openin’ the map app and wanderin’ in circles</p><p>Anyhow, just makin’ it here on my own feels good. Ain’t much, but there’s a sense of achievement</p><p>And if next time I come without messin’ up, then this weren’t a failure. It’s experience</p><p>This time I can brush it off as a “personal errand”, but if it was work, I couldn’t be so easygoin’</p><p>I’ll make today’s wrong turn count next time. Don’t worry ‘bout me</p><p>So then, let’s get to the point, what’s this errand ‘bout?</p><p>…Hmm, hmm. Heard rumors ‘bout that. Somethin’ that just started, right?</p><p>As part of Mega Stream, idols doin’ solo live streams…</p><p>Oh, makin’ a costume just for that stream, huh</p><p>So that means it’s a pretty serious project. Well, if all idols are included, I s’pose it’s natural</p><p>So? What ya want bringin’ that up with me?</p><p>…Ya wanna hear my opinion? Someone new like me don’t know half as much as you, Anzu-han. Ain’t even worth askin’, is it?</p><p>Ehh… next is my turn…?</p><p>Whe-what’s that ‘bout! This ain’t no “personal errand,” it’s proper work!</p><p>I thought it’d be more like small talk, at most just casual chat, so I came here relaxed…</p><p>True enough, like ya said, reckon a solo job could count as a “personal errand”...</p><p>Nah nah, normally it doesn&#39;t! But knowin’ you, Anzu-han, ya just said that so I wouldn’t get all tense</p><p>I get it now. Ya wanna put my tastes and image into the costume, heh</p><p>“The me I wanna show right now,”. Hmm…</p><p>…Nothin’ comes to mind right off</p><p>If it’s clothes I wanna wear… I could pick casual wear easy enough</p><p>But it ain’t like I feel strongly, “I wanna wear this,” I just grab whatever on a whim</p><p>And idol costumes are another thingy. Somethin’ that important, I get nervous thinkin’ if it’s really okay for me to decide</p><p>I do kinda think it’d be good if it’s a costume fans love, one they’ll remember forever</p><p>But what you’re wantin’, Anzu-han, ain’t that sorta “right answer,” it’s my own feelings, ain’t it?</p><p>If ya ask how I wanna show myself now, honestly I got no idea</p><p>But still… since ya called me out like this, feels wasteful to say nothin’</p><p>Like ya said, I could leave it up to ya, Anzu-han, but if I do nothin’, it’s the same as back then</p><p>Same as that time I was just standin’ there, surrounded by huge buildings</p><p>…I been lost plenty since becomin’ an idol, but I still remember every path I walked on my own feet</p><p>That’s why this time too… even if I wander ‘round, I’ll find the answer myself</p><p>Mega Sphere’s so wide it still feels like I done come to some foreign country</p><p>Might sound dramatic talkin’ ‘bout how I’ll live here</p><p>But maybe it’ll be a good chance to think on how I’ll spend my days in this new place</p></div></div><h2 id="Chapter-2">Chapter 2</h2><div class="msr-location">  <span><b>Location:</b>    A hallway within the Mega Sphere Tower  </span></div><img src="https://i.imgur.com/rle8A3U.png" class=""><div class=msr-unit character="Kohaku"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p><span class="thought">(What kinda of self I wanna show, huh... bein’ asked with no clue like this, it’s not somethin’ you can answer easily)</span></p><p><span class="thought">(Good thing I got some time to think. I gotta thank Anzu-han)</span></p><p><span class="thought">(Hmm… For now, I’ll take another look at the outfits I’ve worn so far. Might give me some clues)</span></p><p><span class="thought">(This one’s from when I did Crazy:B, and this one’s from Double Face…)</span></p><p><span class="thought">(I hadn’t really noticed before, ‘cause I was always focused on the work at hand, but the vibe really changes with each unit)</span></p><p><span class="thought">(But… what is it…? I’ve got good feelings for both, but maybe it’s better not to use the unit outfits as reference)</span></p><p><span class="thought">(This time I’m standin’ not as a unit, but as Kohaku Oukawa himself)</span></p><p><span class="thought">(…I think I understand that logic, at least in my own way)</span></p><p><span class="thought">(Tryin’ not to think about the unit’s image is tough. That means my choices get a lot narrower)</span></p><p><span class="thought">(Speakin’ of solo, I remember wearin’ my exclusive outfit that had a cherry blossom on the back)</span></p><p><span class="thought">(It was beautiful, and I think it suited me pretty well too)</span></p><p><span class="thought">(I’ve always been familiar with traditional clothes, but it doesn’t feel like what I want to show now)</span></p><p><span class="thought">(Not just an extension of the past. What can I show as Kohaku Oukawa in this very moment? It’s tough…)</span></p><p><span class="thought">(…Hm? Someone’s here)</span></p><p><span class="thought">(Mutterin’ to myself here, but what are them doin’? Don’t look like them are lost though…)</span></p></div></div><img src="https://i.imgur.com/H6unZ5M.png" class=""><div class=msr-unit character="Esu"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Found it! I’ve discovered the hidden exit leadin’ to a brand-new world☆</p><p>After a hundred years of hardship! A huge adventure full of ups and downs has paid off! Congrats to me!</p><p>With this, I’ve gotten one step closer to the “Million Secrets” slumberin’ in Mega Sphere—where findin’ them all grants your wish!</p><p>Advancin’ straight toward uncoverin’ the truth! The adventurer Esu’s journey ain’t over yet…☆</p><p>Now, what awaits ahead, I wonder~</p></div></div><img src="https://i.imgur.com/HAljjH3.png" class=""><div class=msr-unit character="Kohaku"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>—That ain’t an exit, it’s a vent, y’know?</p></div></div><div class=msr-unit character="Esu"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Ah! Hello, Kohaku-senpai. Thanks for your hard work</p></div></div><div class=msr-unit character="Kohaku"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Thanks for bein’ polite. You’re Esu-han, right?</p><p>What’ve ya been doin’ all this time? And what’s this “Million Secrets” thing anyway?</p></div></div><div class=msr-unit character="Esu"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Ah! Hello, Kohaku-senpai. Thanks for your hard work</p></div></div><img src="https://i.imgur.com/t21f4Jq.png" class=""><div class="nav-container">        <a href="https://koou21.github.io" class="home-btn">⌂</a>        <a href="https://koou21.github.io/metamorphose/prologue" class="prev">←</a>        <a href="https://koou21.github.io/metamorphose" class="center-link">⌂</a>        <a href="https://koou21.github.io/metamorphose/ark" class="next">→</a>        <a href="#top" class="top-btn">↑</a></div>]]></content>
     
     
       
@@ -481,9 +336,9 @@ $(document).ready(function() {
     <link href="https://koou21.github.io/neverland/"/>
     <id>https://koou21.github.io/neverland/</id>
     <published>2024-07-27T15:23:04.000Z</published>
-    <updated>2025-10-11T19:59:46.182Z</updated>
+    <updated>2025-10-13T00:25:52.508Z</updated>
     
-    <content type="html"><![CDATA[<style>    .preview-wrapper { /* in case jquery doesn't work */        display: none;    }    @media (max-width: 567px) { /* for NexT Mashiro: makes padding smaller on mobile */        .post-block {            padding: 5px 10px 8px !important;        }    }</style><div class="story-wrapper mobile-reverse" style="--storyColor: #454a8f;--storyColor-rgb: 69, 74, 143;--storyColor-h: 0;--storyColor-s: 0%;--storyColor-l: 20%;">    <div class="grid-wrapper">        <div class="story-background" style="background-image: url('../img/story/Neverland/shu_cg1.webp')"></div>        <div class="story-box">            <div class="story-cover">                <div><img src="../img/story/Neverland/shu bloomed frameless.webp"></div>            </div>            <div class="title-area">                <div class="title-area__title">Neverland</div>                <div class="title-area__subtitle">ネヴァーランド</div>                <div class="title-area__start">                    <a href="https://koou21.github.io/neverland">Start Reading</a>                </div>            </div>            <div class="info-area">                <div class="synopsis">                    Shu returns to Japan to prepare for the Japan Neverland Cup, an artistic music festival. Mika has been preparing for Shu's return and the upcoming music event, but his project proposal hits a bottleneck, and he gets lost on the street... <span style="display:inline-block"></span>                </div>                <div class="info">                    <div class="info-item season">                        <div class="label">                            Season                        </div>                        <div class="value">                            Summer                        </div>                    </div>                    <div class="info-item chapters">                        <div class="label">                            Chapters                        </div>                        <div class="value">                            12                        </div>                    </div>                    <div class="info-item writer">                        <div class="label">                            Writer                        </div>                        <div class="value">                            日日日 (Akira)                        </div>                    </div>                    <div class="info-item characters">                        <div class="label">                            Characters                        </div>                        <div class="value">                            <a href="/tl/categories/Ensemble-Stars/Wataru/" character="Wataru">                            <a href="/tl/categories/Ensemble-Stars/Mika/" character="Mika"></a>                            <a href="/tl/categories/Ensemble-Stars/Shu/" character="Shu"></a>                            <a href="/tl/categories/Ensemble-Stars/Nagisa/" character="Nagisa"></a>                        </div>                    </div>                    <div class="info-item tl">                        <div class="label">                            Translators                        </div>                        <div class="value">                            <a href="https://koou21.tumblr.com" target="_blank">lukas</a>                        </div>                    </div>                    <div class="info-item pr">                        <div class="label">                            Proofreaders                        </div>                        <div class="value">                            <a href="https://twitter.com/asia_blossoms" target="_blank">Asia Blossoms</a>, <a href="https://twitter.com/nenosuns" target="_blank">nenosuns</a>, <a href="https://twitter.com/raspberrytls" target="_blank">raspberryjams</a>                        </div>                    </div>                </div>                <div class="extra-area">                    <div class="tab-header">                        <div class="tab-header__name">Extra Information</div>                    </div>                    <div class="tab-content">                        <div class="tab-item">                            <div class="label">                                Event                            </div>                            <div class="value">                                Descent! The Neverland We Begin to Spin                            </div>                        </div>                        <div class="tab-item">                            <div class="label">                                Event Duration                            </div>                            <div class="value">                                8/31/2020 (15:00 JST) - 9/9/2020 (22:00 JST)                            </div>                        </div>                <div class="comment-area">                    <div class="tab-header">                        <div class="tab-header__name">Translator's Comments</div>                    </div>                    <div class="tab-content">                        This is a very important story for Tori, it shows his growth and independence.                    </div>                </div>                <div class="cg-gallery">                    <div class="tab-header">                        <div class="tab-header__name">CG Gallery</div>                    </div>                    <div class="tab-content">                        <div class="gallery">                            <div class="gallery-item">                                <div class="image">                                    <img src="https://i.imgur.com/yRBoo2Z.png">                                </div>                                <div class="caption">                                    Return to Neverland／1                                </div>                            </div>                            <div class="gallery-item">                                <div class="image">                                    <img src="https://i.imgur.com/9HY24jD.png">                                </div>                                <div class="caption">                                    Return to Neverland／2                                </div>                            </div>                            <div class="gallery-item">                                <div class="image">                                    <img src="https://i.imgur.com/WyIlZ5A.png">                                </div>                                <div class="caption">                                    Lost Kids Flying to the Sky／3                                </div>                            </div>                            <div class="gallery-item">                                <div class="image">                                    <img src="https://i.imgur.com/p8aYyPs.png">                                </div>                                <div class="caption">                                    Lost Kids Flying to the Sky／3                                </div>                            </div>                        </div>                    </div>                </div>                <div class="story-cards">                    <div class="tab-header">                        <div class="tab-header__name">Associated Cards</div>                    </div>                    <div class="tab-content">                        <div class="cards">                            <div class="cards-item">                                <div class="image">                                    <div class="single unbloomed">                                        <img src="https://i.imgur.com/avyqXmt.png">                                    </div>                                    <div class="single bloomed">                                        <img src="https://i.imgur.com/beElp68.png">                                    </div>                                </div>                                <div class="lightbox">                                    <div class="card__name">(Eternal Art) Shu Itsuki</div>                                    <div class="card__jp">[永遠への芸術] 斎宮 宗</div>                                </div>                            </div>                            <div class="cards-item">                                <div class="image">                                    <div class="single unbloomed">                                        <img src="https://i.imgur.com/Sz703al.png">                                    </div>                                    <div class="single bloomed">                                        <img src="https://i.imgur.com/6ZnmQ0W.png">                                    </div>                                </div>                                <div class="lightbox">                                    <div class="card__name">(Distant Art) Mika Kagehira</div>                                    <div class="card__jp">[永く遠い芸術] 影片 みか/div>                                </div>                            </div>                            <div class="cards-item">                                <div class="image">                                    <div class="single unbloomed">                                        <img src="https://i.imgur.com/t0Za9JD.png">                                    </div>                                    <div class="single bloomed">                                        <img src="https://i.imgur.com/gneFAQy.png">                                    </div>                                </div>                                <div class="lightbox">                                    <div class="card__name">(Entertaining Artd) Wataru Hibiki</div>                                    <div class="card__jp">[娯楽の芸術] 日々樹 渉</div>                                          </div>                            </div>                            <div class="cards-item">                                <div class="image">                                    <div class="single unbloomed">                                        <img src="https://i.imgur.com/tkLs8yN.png">                                    </div>                                    <div class="single bloomed">                                        <img src="https://i.imgur.com/ViwwSiW.png">                                    </div>                                </div>                                <div class="lightbox">                                    <div class="card__name">(Free-Spirited Art) Nagisa Ran</div>                                    <div class="card__jp">[自由な芸術] 乱 凪砂</div>                                </div>                            </div>                        </div>                    </div>                </div>            </div>            </div>            </div>            <div class="chapter-area">                <div class="chapters">                    <ul>                         <li>                            <a href="https://koou21.github.io/neverland/prologue">Prologue</a>                        </li>                        <li>                            <span>Return to Neverland</span>                            <a href="https://koou21.github.io/neverland/return_to_neverland/#Chapter-1">1</a>                            <a href="https://koou21.github.io/neverland/return_to_neverland/#Chapter-2">2</a>                            <a href="https://koou21.github.io/neverland/return_to_neverland/#Chapter-3">3</a>                            <a href="https://koou21.github.io/neverland/return_to_neverland/#Chapter-4">4</a>                        </li>                        <li>                            <span>Tinker Bell's Sin</span>                            <a href="https://koou21.github.io/neverland/tinker_bell_sin/#Chapter-1">1</a>                            <a href="https://koou21.github.io/neverland/tinker_bell_sin/#Chapter-2">2</a>                            <a href="https://koou21.github.io/neverland/tinker_bell_sin/#Chapter-3">3</a>                        </li>                        <li>                            <span>Lost Kids Flying to the Sky</span>                            <a href="https://koou21.github.io/neverland/lost_kids_flying_to_the_sky/#Chapter-1">1</a>                            <a href="https://koou21.github.io/neverland/lost_kids_flying_to_the_sky/#Chapter-2">2</a>                            <a href="https://koou21.github.io/neverland/lost_kids_flying_to_the_sky/#Chapter-3">3</a>                        </li>                        <li>                            <a href="https://koou21.github.io/neverland/epilogue">Epilogue</a>                        </li>                    </ul>                </div>                <div class="mini-talks">                    <div class="mini-talk">                        <div class="mt-header">TBA</div>                        <div class="mt-content">                        <div class="item">                            <a href="mini_talk/shu/1" id="none">1</a>                            <a href="mini_talk/shu/2">2</a>                            </div>                        </div>                    </div>                </div>            </div>        </div>    </div></div><script> <!-- IMPORTANT! removes story preview -->$(document).ready(function() {    $('.preview-wrapper').remove();</script><span id="more"></span>]]></content>
+    <content type="html"><![CDATA[<style>    .preview-wrapper { /* in case jquery doesn't work */        display: none;    }    @media (max-width: 567px) { /* for NexT Mashiro: makes padding smaller on mobile */        .post-block {            padding: 5px 10px 8px !important;        }    }</style><div class="story-wrapper mobile-reverse" style="--storyColor: #454a8f;--storyColor-rgb: 69, 74, 143;--storyColor-h: 0;--storyColor-s: 0%;--storyColor-l: 20%;">    <div class="grid-wrapper">        <div class="story-background" style="background-image: url('https://i.imgur.com/9HY24jD.png')"></div>        <div class="story-box">            <div class="story-cover">                <div><img src="https://i.imgur.com/TfscXUs.png"></div>            </div>            <div class="title-area">                <div class="title-area__title">Neverland</div>                <div class="title-area__subtitle">ネヴァーランド</div>                <div class="title-area__start">                    <a href="https://koou21.github.io/neverland">Start Reading</a>                </div>            </div>            <div class="info-area">                <div class="synopsis">                    Shu returns to Japan to prepare for the Japan Neverland Cup, an artistic music festival. Mika has been preparing for Shu's return and the upcoming music event, but his project proposal hits a bottleneck, and he gets lost on the street... <span style="display:inline-block"></span>                </div>                <div class="info">                    <div class="info-item season">                        <div class="label">Season</div>                        <div class="value">Summer</div>                    </div>                    <div class="info-item chapters">                        <div class="label">Chapters</div>                        <div class="value">12</div>                    </div>                    <div class="info-item writer">                        <div class="label">Writer</div>                        <div class="value">日日日 (Akira)</div>                    </div>                    <div class="info-item characters">                        <div class="label">Characters</div>                        <div class="value">                            <a href="/tl/categories/Ensemble-Stars/Wataru/" character="Wataru"></a>                            <a href="/tl/categories/Ensemble-Stars/Mika/" character="Mika"></a>                            <a href="/tl/categories/Ensemble-Stars/Shu/" character="Shu"></a>                            <a href="/tl/categories/Ensemble-Stars/Nagisa/" character="Nagisa"></a>                        </div>                    </div>                    <div class="info-item tl">                        <div class="label">Translators</div>                        <div class="value">                            <a href="https://koou21.tumblr.com" target="_blank">lukas</a>                        </div>                    </div>                    <div class="info-item pr">                        <div class="label">Proofreaders</div>                        <div class="value">                            <a href="https://twitter.com/asia_blossoms" target="_blank">Asia Blossoms</a>,                             <a href="https://twitter.com/nenosuns" target="_blank">nenosuns</a>,                             <a href="https://twitter.com/raspberrytls" target="_blank">raspberryjams</a>                        </div>                    </div>                </div>                <div class="extra-area">                    <div class="tab-header">                        <div class="tab-header__name">Extra Information</div>                    </div>                    <div class="tab-content">                        <div class="tab-item">                            <div class="label">Event</div>                            <div class="value">Descent! The Neverland We Begin to Spin</div>                        </div>                        <div class="tab-item">                            <div class="label">Event Duration</div>                            <div class="value">8/31/2020 (15:00 JST) - 9/9/2020 (22:00 JST)</div>                        </div>                    </div>                </div>                <div class="comment-area">                    <div class="tab-header">                        <div class="tab-header__name">Translator's Comments</div>                    </div>                    <div class="tab-content">                        This is a very important story for Tori, it shows his growth and independence.                    </div>                </div>                <div class="cg-gallery">                    <div class="tab-header">                        <div class="tab-header__name">CG Gallery</div>                    </div>                    <div class="tab-content">                        <div class="gallery">                            <div class="gallery-item">                                <div class="image">                                    <img src="https://i.imgur.com/yRBoo2Z.png">                                </div>                                <div class="caption">Return to Neverland／1</div>                            </div>                            <div class="gallery-item">                                <div class="image">                                    <img src="https://i.imgur.com/9HY24jD.png">                                </div>                                <div class="caption">Return to Neverland／2</div>                            </div>                            <div class="gallery-item">                                <div class="image">                                    <img src="https://i.imgur.com/WyIlZ5A.png">                                </div>                                <div class="caption">Lost Kids Flying to the Sky／3</div>                            </div>                            <div class="gallery-item">                                <div class="image">                                    <img src="https://i.imgur.com/p8aYyPs.png">                                </div>                                <div class="caption">Lost Kids Flying to the Sky／3</div>                            </div>                        </div>                    </div>                </div>                <div class="story-cards">                    <div class="tab-header">                        <div class="tab-header__name">Associated Cards</div>                    </div>                    <div class="tab-content">                        <div class="cards">                            <div class="cards-item">                                <div class="image">                                    <div class="single unbloomed">                                        <img src="https://i.imgur.com/avyqXmt.png">                                    </div>                                    <div class="single bloomed">                                        <img src="https://i.imgur.com/beElp68.png">                                    </div>                                </div>                                <div class="lightbox">                                    <div class="card__name">(Eternal Art) Shu Itsuki</div>                                    <div class="card__jp">[永遠への芸術] 斎宮 宗</div>                                </div>                            </div>                            <div class="cards-item">                                <div class="image">                                    <div class="single unbloomed">                                        <img src="https://i.imgur.com/Sz703al.png">                                    </div>                                    <div class="single bloomed">                                        <img src="https://i.imgur.com/6ZnmQ0W.png">                                    </div>                                </div>                                <div class="lightbox">                                    <div class="card__name">(Distant Art) Mika Kagehira</div>                                    <div class="card__jp">[永く遠い芸術] 影片 みか</div>                                </div>                            </div>                            <div class="cards-item">                                <div class="image">                                    <div class="single unbloomed">                                        <img src="https://i.imgur.com/t0Za9JD.png">                                    </div>                                    <div class="single bloomed">                                        <img src="https://i.imgur.com/gneFAQy.png">                                    </div>                                </div>                                <div class="lightbox">                                    <div class="card__name">(Entertaining Art) Wataru Hibiki</div>                                    <div class="card__jp">[娯楽の芸術] 日々樹 渉</div>                                          </div>                            </div>                            <div class="cards-item">                                <div class="image">                                    <div class="single unbloomed">                                        <img src="https://i.imgur.com/tkLs8yN.png">                                    </div>                                    <div class="single bloomed">                                        <img src="https://i.imgur.com/ViwwSiW.png">                                    </div>                                </div>                                <div class="lightbox">                                    <div class="card__name">(Free-Spirited Art) Nagisa Ran</div>                                    <div class="card__jp">[自由な芸術] 乱 凪砂</div>                                </div>                            </div>                        </div>                    </div>                </div>            </div> <!-- end of info-area -->            <div class="chapter-area">                <div class="chapters">                    <ul>                        <li>                            <a href="https://koou21.github.io/neverland/prologue">Prologue</a>                        </li>                        <li>                            <span>Return to Neverland</span>                            <a href="https://koou21.github.io/neverland/return_to_neverland/#Chapter-1">1</a>                            <a href="https://koou21.github.io/neverland/return_to_neverland/#Chapter-2">2</a>                            <a href="https://koou21.github.io/neverland/return_to_neverland/#Chapter-3">3</a>                            <a href="https://koou21.github.io/neverland/return_to_neverland/#Chapter-4">4</a>                        </li>                        <li>                            <span>Tinker Bell's Sin</span>                            <a href="https://koou21.github.io/neverland/tinker_bell_sin/#Chapter-1">1</a>                            <a href="https://koou21.github.io/neverland/tinker_bell_sin/#Chapter-2">2</a>                            <a href="https://koou21.github.io/neverland/tinker_bell_sin/#Chapter-3">3</a>                        </li>                        <li>                            <span>Lost Kids Flying to the Sky</span>                            <a href="https://koou21.github.io/neverland/lost_kids_flying_to_the_sky/#Chapter-1">1</a>                            <a href="https://koou21.github.io/neverland/lost_kids_flying_to_the_sky/#Chapter-2">2</a>                            <a href="https://koou21.github.io/neverland/lost_kids_flying_to_the_sky/#Chapter-3">3</a>                        </li>                        <li>                            <a href="https://koou21.github.io/neverland/epilogue">Epilogue</a>                        </li>                    </ul>                </div>                <div class="mini-talks">                    <div class="mini-talk">                        <div class="mt-header">TBA</div>                        <div class="mt-content">                            <div class="item">                                <a href="mini_talk/shu/1" id="none">1</a>                                <a href="mini_talk/shu/2">2</a>                            </div>                        </div>                    </div>                </div>            </div> <!-- end of chapter-area -->        </div> <!-- end of story-box -->    </div> <!-- end of grid-wrapper --></div> <!-- end of story-wrapper --><script> <!-- IMPORTANT! removes story preview -->$(document).ready(function() {    $('.preview-wrapper').remove();</script><span id="more"></span>]]></content>
     
     
     <summary type="html">&lt;style&gt;
@@ -498,10 +353,10 @@ $(document).ready(function() {
 &lt;/style&gt;
 &lt;div class=&quot;story-wrapper mobile-reverse&quot; style=&quot;--storyColor: #454a8f;--storyColor-rgb: 69, 74, 143;--storyColor-h: 0;--storyColor-s: 0%;--storyColor-l: 20%;&quot;&gt;
     &lt;div class=&quot;grid-wrapper&quot;&gt;
-        &lt;div class=&quot;story-background&quot; style=&quot;background-image: url(&#39;../img/story/Neverland/shu_cg1.webp&#39;)&quot;&gt;&lt;/div&gt;
+        &lt;div class=&quot;story-background&quot; style=&quot;background-image: url(&#39;https://i.imgur.com/9HY24jD.png&#39;)&quot;&gt;&lt;/div&gt;
         &lt;div class=&quot;story-box&quot;&gt;
             &lt;div class=&quot;story-cover&quot;&gt;
-                &lt;div&gt;&lt;img src=&quot;../img/story/Neverland/shu bloomed frameless.webp&quot;&gt;&lt;/div&gt;
+                &lt;div&gt;&lt;img src=&quot;https://i.imgur.com/TfscXUs.png&quot;&gt;&lt;/div&gt;
             &lt;/div&gt;
             &lt;div class=&quot;title-area&quot;&gt;
                 &lt;div class=&quot;title-area__title&quot;&gt;Neverland&lt;/div&gt;
@@ -516,54 +371,38 @@ $(document).ready(function() {
                 &lt;/div&gt;
                 &lt;div class=&quot;info&quot;&gt;
                     &lt;div class=&quot;info-item season&quot;&gt;
-                        &lt;div class=&quot;label&quot;&gt;
-                            Season
-                        &lt;/div&gt;
-                        &lt;div class=&quot;value&quot;&gt;
-                            Summer
-                        &lt;/div&gt;
+                        &lt;div class=&quot;label&quot;&gt;Season&lt;/div&gt;
+                        &lt;div class=&quot;value&quot;&gt;Summer&lt;/div&gt;
                     &lt;/div&gt;
                     &lt;div class=&quot;info-item chapters&quot;&gt;
-                        &lt;div class=&quot;label&quot;&gt;
-                            Chapters
-                        &lt;/div&gt;
-                        &lt;div class=&quot;value&quot;&gt;
-                            12
-                        &lt;/div&gt;
+                        &lt;div class=&quot;label&quot;&gt;Chapters&lt;/div&gt;
+                        &lt;div class=&quot;value&quot;&gt;12&lt;/div&gt;
                     &lt;/div&gt;
                     &lt;div class=&quot;info-item writer&quot;&gt;
-                        &lt;div class=&quot;label&quot;&gt;
-                            Writer
-                        &lt;/div&gt;
-                        &lt;div class=&quot;value&quot;&gt;
-                            日日日 (Akira)
-                        &lt;/div&gt;
+                        &lt;div class=&quot;label&quot;&gt;Writer&lt;/div&gt;
+                        &lt;div class=&quot;value&quot;&gt;日日日 (Akira)&lt;/div&gt;
                     &lt;/div&gt;
                     &lt;div class=&quot;info-item characters&quot;&gt;
-                        &lt;div class=&quot;label&quot;&gt;
-                            Characters
-                        &lt;/div&gt;
+                        &lt;div class=&quot;label&quot;&gt;Characters&lt;/div&gt;
                         &lt;div class=&quot;value&quot;&gt;
-                            &lt;a href=&quot;/tl/categories/Ensemble-Stars/Wataru/&quot; character=&quot;Wataru&quot;&gt;
+                            &lt;a href=&quot;/tl/categories/Ensemble-Stars/Wataru/&quot; character=&quot;Wataru&quot;&gt;&lt;/a&gt;
                             &lt;a href=&quot;/tl/categories/Ensemble-Stars/Mika/&quot; character=&quot;Mika&quot;&gt;&lt;/a&gt;
                             &lt;a href=&quot;/tl/categories/Ensemble-Stars/Shu/&quot; character=&quot;Shu&quot;&gt;&lt;/a&gt;
                             &lt;a href=&quot;/tl/categories/Ensemble-Stars/Nagisa/&quot; character=&quot;Nagisa&quot;&gt;&lt;/a&gt;
                         &lt;/div&gt;
                     &lt;/div&gt;
                     &lt;div class=&quot;info-item tl&quot;&gt;
-                        &lt;div class=&quot;label&quot;&gt;
-                            Translators
-                        &lt;/div&gt;
+                        &lt;div class=&quot;label&quot;&gt;Translators&lt;/div&gt;
                         &lt;div class=&quot;value&quot;&gt;
                             &lt;a href=&quot;https://koou21.tumblr.com&quot; target=&quot;_blank&quot;&gt;lukas&lt;/a&gt;
                         &lt;/div&gt;
                     &lt;/div&gt;
                     &lt;div class=&quot;info-item pr&quot;&gt;
-                        &lt;div class=&quot;label&quot;&gt;
-                            Proofreaders
-                        &lt;/div&gt;
+                        &lt;div class=&quot;label&quot;&gt;Proofreaders&lt;/div&gt;
                         &lt;div class=&quot;value&quot;&gt;
-                            &lt;a href=&quot;https://twitter.com/asia_blossoms&quot; target=&quot;_blank&quot;&gt;Asia Blossoms&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/nenosuns&quot; target=&quot;_blank&quot;&gt;nenosuns&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/raspberrytls&quot; target=&quot;_blank&quot;&gt;raspberryjams&lt;/a&gt;
+                            &lt;a href=&quot;https://twitter.com/asia_blossoms&quot; target=&quot;_blank&quot;&gt;Asia Blossoms&lt;/a&gt;, 
+                            &lt;a href=&quot;https://twitter.com/nenosuns&quot; target=&quot;_blank&quot;&gt;nenosuns&lt;/a&gt;, 
+                            &lt;a href=&quot;https://twitter.com/raspberrytls&quot; target=&quot;_blank&quot;&gt;raspberryjams&lt;/a&gt;
                         &lt;/div&gt;
                     &lt;/div&gt;
                 &lt;/div&gt;
@@ -573,21 +412,15 @@ $(document).ready(function() {
                     &lt;/div&gt;
                     &lt;div class=&quot;tab-content&quot;&gt;
                         &lt;div class=&quot;tab-item&quot;&gt;
-                            &lt;div class=&quot;label&quot;&gt;
-                                Event
-                            &lt;/div&gt;
-                            &lt;div class=&quot;value&quot;&gt;
-                                Descent! The Neverland We Begin to Spin
-                            &lt;/div&gt;
+                            &lt;div class=&quot;label&quot;&gt;Event&lt;/div&gt;
+                            &lt;div class=&quot;value&quot;&gt;Descent! The Neverland We Begin to Spin&lt;/div&gt;
                         &lt;/div&gt;
                         &lt;div class=&quot;tab-item&quot;&gt;
-                            &lt;div class=&quot;label&quot;&gt;
-                                Event Duration
-                            &lt;/div&gt;
-                            &lt;div class=&quot;value&quot;&gt;
-                                8/31/2020 (15:00 JST) - 9/9/2020 (22:00 JST)
-                            &lt;/div&gt;
+                            &lt;div class=&quot;label&quot;&gt;Event Duration&lt;/div&gt;
+                            &lt;div class=&quot;value&quot;&gt;8/31/2020 (15:00 JST) - 9/9/2020 (22:00 JST)&lt;/div&gt;
                         &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
                 &lt;div class=&quot;comment-area&quot;&gt;
                     &lt;div class=&quot;tab-header&quot;&gt;
                         &lt;div class=&quot;tab-header__name&quot;&gt;Translator&#39;s Comments&lt;/div&gt;
@@ -606,33 +439,25 @@ $(document).ready(function() {
                                 &lt;div class=&quot;image&quot;&gt;
                                     &lt;img src=&quot;https://i.imgur.com/yRBoo2Z.png&quot;&gt;
                                 &lt;/div&gt;
-                                &lt;div class=&quot;caption&quot;&gt;
-                                    Return to Neverland／1
-                                &lt;/div&gt;
+                                &lt;div class=&quot;caption&quot;&gt;Return to Neverland／1&lt;/div&gt;
                             &lt;/div&gt;
                             &lt;div class=&quot;gallery-item&quot;&gt;
                                 &lt;div class=&quot;image&quot;&gt;
                                     &lt;img src=&quot;https://i.imgur.com/9HY24jD.png&quot;&gt;
                                 &lt;/div&gt;
-                                &lt;div class=&quot;caption&quot;&gt;
-                                    Return to Neverland／2
-                                &lt;/div&gt;
+                                &lt;div class=&quot;caption&quot;&gt;Return to Neverland／2&lt;/div&gt;
                             &lt;/div&gt;
                             &lt;div class=&quot;gallery-item&quot;&gt;
                                 &lt;div class=&quot;image&quot;&gt;
                                     &lt;img src=&quot;https://i.imgur.com/WyIlZ5A.png&quot;&gt;
                                 &lt;/div&gt;
-                                &lt;div class=&quot;caption&quot;&gt;
-                                    Lost Kids Flying to the Sky／3
-                                &lt;/div&gt;
+                                &lt;div class=&quot;caption&quot;&gt;Lost Kids Flying to the Sky／3&lt;/div&gt;
                             &lt;/div&gt;
                             &lt;div class=&quot;gallery-item&quot;&gt;
                                 &lt;div class=&quot;image&quot;&gt;
                                     &lt;img src=&quot;https://i.imgur.com/p8aYyPs.png&quot;&gt;
                                 &lt;/div&gt;
-                                &lt;div class=&quot;caption&quot;&gt;
-                                    Lost Kids Flying to the Sky／3
-                                &lt;/div&gt;
+                                &lt;div class=&quot;caption&quot;&gt;Lost Kids Flying to the Sky／3&lt;/div&gt;
                             &lt;/div&gt;
                         &lt;/div&gt;
                     &lt;/div&gt;
@@ -668,7 +493,7 @@ $(document).ready(function() {
                                 &lt;/div&gt;
                                 &lt;div class=&quot;lightbox&quot;&gt;
                                     &lt;div class=&quot;card__name&quot;&gt;(Distant Art) Mika Kagehira&lt;/div&gt;
-                                    &lt;div class=&quot;card__jp&quot;&gt;[永く遠い芸術] 影片 みか/div&gt;
+                                    &lt;div class=&quot;card__jp&quot;&gt;[永く遠い芸術] 影片 みか&lt;/div&gt;
                                 &lt;/div&gt;
                             &lt;/div&gt;
                             &lt;div class=&quot;cards-item&quot;&gt;
@@ -681,7 +506,7 @@ $(document).ready(function() {
                                     &lt;/div&gt;
                                 &lt;/div&gt;
                                 &lt;div class=&quot;lightbox&quot;&gt;
-                                    &lt;div class=&quot;card__name&quot;&gt;(Entertaining Artd) Wataru Hibiki&lt;/div&gt;
+                                    &lt;div class=&quot;card__name&quot;&gt;(Entertaining Art) Wataru Hibiki&lt;/div&gt;
                                     &lt;div class=&quot;card__jp&quot;&gt;[娯楽の芸術] 日々樹 渉&lt;/div&gt;          
                                 &lt;/div&gt;
                             &lt;/div&gt;
@@ -702,13 +527,11 @@ $(document).ready(function() {
                         &lt;/div&gt;
                     &lt;/div&gt;
                 &lt;/div&gt;
-            &lt;/div&gt;
-            &lt;/div&gt;
-            &lt;/div&gt;
+            &lt;/div&gt; &lt;!-- end of info-area --&gt;
             &lt;div class=&quot;chapter-area&quot;&gt;
                 &lt;div class=&quot;chapters&quot;&gt;
                     &lt;ul&gt;
-                         &lt;li&gt;
+                        &lt;li&gt;
                             &lt;a href=&quot;https://koou21.github.io/neverland/prologue&quot;&gt;Prologue&lt;/a&gt;
                         &lt;/li&gt;
                         &lt;li&gt;
@@ -739,17 +562,17 @@ $(document).ready(function() {
                     &lt;div class=&quot;mini-talk&quot;&gt;
                         &lt;div class=&quot;mt-header&quot;&gt;TBA&lt;/div&gt;
                         &lt;div class=&quot;mt-content&quot;&gt;
-                        &lt;div class=&quot;item&quot;&gt;
-                            &lt;a href=&quot;mini_talk/shu/1&quot; id=&quot;none&quot;&gt;1&lt;/a&gt;
-                            &lt;a href=&quot;mini_talk/shu/2&quot;&gt;2&lt;/a&gt;
+                            &lt;div class=&quot;item&quot;&gt;
+                                &lt;a href=&quot;mini_talk/shu/1&quot; id=&quot;none&quot;&gt;1&lt;/a&gt;
+                                &lt;a href=&quot;mini_talk/shu/2&quot;&gt;2&lt;/a&gt;
                             &lt;/div&gt;
                         &lt;/div&gt;
                     &lt;/div&gt;
                 &lt;/div&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
+            &lt;/div&gt; &lt;!-- end of chapter-area --&gt;
+        &lt;/div&gt; &lt;!-- end of story-box --&gt;
+    &lt;/div&gt; &lt;!-- end of grid-wrapper --&gt;
+&lt;/div&gt; &lt;!-- end of story-wrapper --&gt;
 &lt;script&gt; &lt;!-- IMPORTANT! removes story preview --&gt;
 $(document).ready(function() {
     $(&#39;.preview-wrapper&#39;).remove();
